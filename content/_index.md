@@ -14,7 +14,10 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        At the **Economics of Social-Ecological Systems Lab** we investigate 
+        the economic drivers of social-ecological systems. Our research examines 
+        how policies, institutions, and trade-offs influence sustainable 
+        resource management, ecosystem resilience, and socio-economic outcomes.
   
   - block: collection
     content:
