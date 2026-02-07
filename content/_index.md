@@ -20,12 +20,12 @@ sections:
         resource management, ecosystem resilience, and socio-economic outcomes.
   
   - block: features
-  content:
+    content:
     title: Research Themes
     subtitle: Core areas of research at SESLab
     items:
       - name: Social-Ecological Systems
-        description: Economic analysis of coupled human–natural systems.
+        description: Economic analysis of coupled human-natural systems.
         icon: globe-alt
         icon_pack: fas
         link: themes/social-ecological-systems
