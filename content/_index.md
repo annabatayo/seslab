@@ -24,7 +24,7 @@ sections:
   
   - block: portfolio
     content:
-      title: Research Themes
+      title: Research Domains
       filters:
         folders:
           - themes
