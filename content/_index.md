@@ -14,7 +14,10 @@ sections:
       text: |
         <br>
         
-        At the **Economics of Social-Ecological Systems Lab** we investigate 
+        The **Economics of Social-Ecological Systems** is one of the four 
+        research themes of the **Environmental Economics and Natural Resource
+        Group** at **Wageningen University and Research**. At the 
+        **Economics of Social-Ecological Systems Lab** we investigate 
         the economic drivers of social-ecological systems. Our research examines 
         how policies, institutions, and trade-offs influence sustainable 
         resource management, ecosystem resilience, and socio-economic outcomes.
