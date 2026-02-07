@@ -1,20 +1,20 @@
 ---
 # Display name
-title: John Lynham
+title: Sofia Badini
 
 # Full Name (for SEO)
-first_name: John
-last_name: Lynham
+first_name: Sofia
+last_name: Badini
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Hawaii at Manoa
+  - name: IIASA
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Alumni
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
