@@ -10,11 +10,11 @@ last_name: Abatayo
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Wageningen University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
