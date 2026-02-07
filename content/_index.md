@@ -18,6 +18,13 @@ sections:
         the economic drivers of social-ecological systems. Our research examines 
         how policies, institutions, and trade-offs influence sustainable 
         resource management, ecosystem resilience, and socio-economic outcomes.
+  
+  - block: portfolio
+    content:
+      title: Research Themes
+      filters:
+        folders:
+          - themes
 
   - block: markdown
     content:
