@@ -4,7 +4,7 @@ title: Titan Setyawan
 
 # Full Name (for SEO)
 first_name: Titan
-last_name: Setyawans
+last_name: Setyawan
 
 # Is this the primary user of the site?
 superuser: true
