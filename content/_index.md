@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Economics of Social-Ecological Systems
       image:
         filename: welcome.jpg
       text: |
