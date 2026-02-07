@@ -23,30 +23,6 @@ sections:
     content:
     title: Research Themes
     subtitle: Core areas of research at SESLab
-    items:
-      - name: Social-Ecological Systems
-        description: Economic analysis of coupled human-natural systems.
-        icon: globe-alt
-        icon_pack: fas
-        link: themes/social-ecological-systems
-
-      - name: Institutions & Governance
-        description: Institutional design for sustainable resource management.
-        icon: university
-        icon_pack: fas
-        link: themes/institutions
-
-      - name: Trade-offs & Policy Design
-        description: Evaluating economic and ecological trade-offs.
-        icon: balance-scale
-        icon_pack: fas
-        link: themes/tradeoffs
-
-      - name: Climate & Resources
-        description: Climate risks and resource use dynamics.
-        icon: leaf
-        icon_pack: fas
-        link: themes/climate
 
   - block: markdown
     content:
