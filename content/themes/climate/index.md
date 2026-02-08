@@ -9,8 +9,10 @@ sections:
     content:
       title: Climate Change
       text: |
-        <div style="text-align: center;">
-          <img src="featured.jpg" alt="Climate" style="max-width: 70%; height: auto; margin-bottom: 1.5rem;">
+        <div>
+          <img src="featured.jpg"
+               alt="Climate"
+               style="display: block; margin: 0 auto 1.5rem auto; max-width: 70%; height: auto;">
         </div>
 
         <div style="text-align: justify;">
