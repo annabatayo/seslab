@@ -5,8 +5,3 @@ weight: 1
 image:
   filename: featured.jpg
 ---
-
-{{< collection
-  title="Publications"
-  filters="tag:Marine"
->}}
