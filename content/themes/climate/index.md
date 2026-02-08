@@ -1,16 +1,11 @@
 ---
-title: Climate
-summary: understanding
-weight: 3
-type: landing
-
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: Climate Change
-      image:
-        filename: featured.jpg
       text: |
+        ![](featured.jpg)
+
         Add a short description of this research domain here.
 
   - block: collection
