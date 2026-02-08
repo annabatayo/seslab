@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Climate Change
+      title: Climate
       text: |
         <div>
           <img src="featured.jpg"

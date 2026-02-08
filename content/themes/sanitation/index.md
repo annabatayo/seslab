@@ -11,7 +11,7 @@ sections:
 sections:
   - block: markdown
     content:
-      title: Climate Change
+      title: Sanitation
       text: |
         <div>
           <img src="featured.jpg"

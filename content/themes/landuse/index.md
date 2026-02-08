@@ -5,13 +5,9 @@ weight: 4
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: Sustainable Land-use
-sections:
   - block: markdown
     content:
-      title: Climate Change
+      title: Land-use
       text: |
         <div>
           <img src="featured.jpg"
