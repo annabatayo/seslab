@@ -16,14 +16,14 @@ date: "2026-01-15T00:00:00Z"
 publishDate: "2026-01-15T00:00:00Z"
 
 # Publication type.
-#  "1": "Research Article"
-#  "2": "Book"
-#  "3": "Book Chapter"
-#  "4": "Data Article"
-#  "5": "Reproduction Files"
-#  "6": "Report"
-#  "7": "Working Paper"
-publication_types: ["Book Chapter"]
+#  "research-article": "Research Article"
+#  "book": "Book"
+#  "book-chapter": "Book Chapter"
+#  "data-article": "Data Article"
+#  "reproduction-files": "Reproduction Files"
+#  "report": "Report"
+#  "working-paper": "Working Paper"  
+publication_types: ["book-chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Springer,* 261-284"

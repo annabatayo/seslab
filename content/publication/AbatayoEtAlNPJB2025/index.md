@@ -12,14 +12,14 @@ doi: "10.1038/s44185-025-00093-7"
 publishDate: "2025-07-03T00:00:00Z"
 
 # Publication type.
-#  "1": "Research Article"
-#  "2": "Book"
-#  "3": "Book Chapter"
-#  "4": "Data Article"
-#  "5": "Reproduction Files"
-#  "6": "Report"
-#  "7": "Working Paper"
-publication_types: ["Research Article"]
+#  "research-article": "Research Article"
+#  "book": "Book"
+#  "book-chapter": "Book Chapter"
+#  "data-article": "Data Article"
+#  "reproduction-files": "Reproduction Files"
+#  "report": "Report"
+#  "working-paper": "Working Paper"  
+publication_types: ["research-article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*npj Biodiversity,* (4)26"

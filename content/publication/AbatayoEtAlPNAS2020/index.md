@@ -13,14 +13,14 @@ doi: ""
 publishDate: "2020-06-01T00:00:00Z"
 
 # Publication type.
-#  "1": "Research Article"
-#  "2": "Book"
-#  "3": "Book Chapter"
-#  "4": "Data Article"
-#  "5": "Reproduction Files"
-#  "6": "Report"
-#  "7": "Working Paper"
-publication_types: ["Research Article"]
+#  "research-article": "Research Article"
+#  "book": "Book"
+#  "book-chapter": "Book Chapter"
+#  "data-article": "Data Article"
+#  "reproduction-files": "Reproduction Files"
+#  "report": "Report"
+#  "working-paper": "Working Paper"  
+publication_types: ["research-article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the National Academy of Sciences,* 117(24): 13393-13398"
