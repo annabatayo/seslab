@@ -32,21 +32,23 @@ publication_types: ["Research Article"]
 publication: "*Nature Sustainability,* 7: 1535-1545"
 publication_short: ""
 
-abstract: Reducing fisheries bycatches of vulnerable species is critical to 
-marine biodiversity conservation and sustainable fisheries development. 
-Although various preventive technical measures have been implemented, 
-their overall effects are poorly understood. Here, we used a meta-analysis 
-approach to quantify the effects of 42 technical measures on the target catch 
-and the bycatch of seabirds, elasmobranchs, marine mammals and sea turtles. 
-We showed that these measures generally reduced the bycatch while having 
-no statistically significant effect on the target catch. Sensory-based measures 
-generally outperformed physical-based ones in reducing the bycatch. Mitigation 
-measures that worked well for several fishing gears or taxa, although useful, 
-were very rare. Most of the adoptions by regional fisheries management 
-organizations (59 percent) were supported by our findings, although many
-others are yet to be robustly evaluated. Our study encourages the innovation 
-and adoption of technical measures and provides crucial insights for 
-policy-making and further research in sustainable bycatch management.
+abstract: |
+  Reducing fisheries bycatches of vulnerable species is critical to marine 
+  biodiversity conservation and sustainable fisheries development.
+  Although various preventive technical measures have been implemented, 
+  their overall effects are poorly understood. Here, we used a meta-analysis 
+  approach to quantify the effects of 42 technical measures on the target 
+  catch and the bycatch of seabirds, elasmobranchs, marine mammals and 
+  sea turtles. We showed that these measures generally reduced the 
+  bycatch while having no statistically significant effect on the target catch.
+  Sensory-based measures generally outperformed physical-based ones in 
+  reducing the bycatch. Mitigation measures that worked well for several 
+  fishing gears or taxa, although useful, were very rare. Most of the adoptions
+  by regional fisheries management organizations (59%) were 
+  supported by our findings, although many others are yet to be robustly 
+  evaluated. Our study encourages the innovation and adoption of technical 
+  measures and provides crucial insights for policy-making and further 
+  research in sustainable bycatch management.
 
 tags:
 - Marine
