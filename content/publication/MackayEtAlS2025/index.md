@@ -1,15 +1,19 @@
 ---
-title: "Citizen consensus and diverging views on benefit-sharing for genetic resources"
+title: "Behavioural economics for understanding recreational fishers and fisheries"
 authors:
-- Anna Lou Abatayo
-- Xiaolongren Ding
-- Esteban Neira-Monsalve
+- Mary Mackay
+- Ingrid van Putten
 - Andries Richter
-date: "2025-07-03T00:00:00Z"
-doi: "10.1038/s44185-025-00093-7"
+- Anna Lou Abatayo
+- Swee-Hoon Chuah
+- Dorothy Dankel
+- Amada Schadeberg
+- Hunter Synder
+date: "2026-01-15T00:00:00Z"
+doi: "10.1086/724286"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-03T00:00:00Z"
+publishDate: "2026-01-15T00:00:00Z"
 
 # Publication type.
 #  "1": "Research Article"
@@ -19,27 +23,26 @@ publishDate: "2025-07-03T00:00:00Z"
 #  "5": "Reproduction Files"
 #  "6": "Report"
 #  "7": "Working Paper"
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*npj Biodiversity,* (4)26"
+publication: "*Springer,* 261-284"
 publication_short: ""
 
-abstract: The governance of genetic resources and their digital sequence information (DSI) faces challenges in achieving globally equitable benefit-sharing under the Convention on Biological Diversity. Citizens in nine countries across the Global North and South reveal diverging preferences on whether a benefit-sharing system should rely on monetary or non-monetary contributions, and whether governments should be responsible for payments. However, consensus emerges in favor of criteria-based DSI allocations and designated funding purposes.
+abstract: Climate geoengineering strategies can help reduce the economic and ecological impacts of global warming. However, governing geoengineering is challenging. Since climate preferences vary across countries, excessive deployment relative to the socially optimal level is likely. Through a laboratory experiment on a public good-or-bad game, we study whether side-payments can address this governance problem. While theoretically effective, our experimental results show only a modest impact of side-payments on outcomes, especially in a multilateral setup. Replacing unstructured bilateral exchanges with a treaty framework simplifies the action space and performs moderately better.
 
 tags:
-- Nature-based Solutions
-- Biodiversity
-- Conservation
-- Survey
+- Marine
+- Behavioral Economics
+- Recreational Fishers
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1038/s44185-025-00093-7
-url_code: https://osf.io/hdp65/
-url_dataset: https://osf.io/hdp65/
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-99739-6_9
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -67,5 +70,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-Supplementary materials can be found [here](https://www.nature.com/articles/s44185-025-00093-7#Sec2).
