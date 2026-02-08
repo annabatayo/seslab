@@ -1,5 +1,5 @@
 ---
-title: Land-use
+title: Sanitation
 summary: understanding
 image:
   filename: tradeoffs.jpg
