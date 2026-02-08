@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Antonio Laplana
+title: Milkah Maina
 
 # Full Name (for SEO)
-first_name: Antonio
-last_name: Laplana
+first_name: Milkah
+last_name: Maina
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  - Graduate Students
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jorge Luis Montero Mestre
+title: Jorge Montero
 
 # Full Name (for SEO)
-first_name: Jorge Luis
-last_name: Montero Mestre
+first_name: Jorge
+last_name: Montero
 
 # Is this the primary user of the site?
 superuser: false
