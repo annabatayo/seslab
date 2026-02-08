@@ -2,24 +2,26 @@
 title: Sanitation
 summary: understanding
 weight: 5
-image:
-  filename: featured.jpg
----
-
----
-title: Sanitation
-summary: understanding
-weight: 5
 type: landing
 
 sections:
   - block: hero
     content:
       title: Sanitation
-      image:
-        filename: featured.jpg
+sections:
+  - block: markdown
+    content:
+      title: Climate Change
       text: |
-        Add a short description of this research domain here.
+        <div style="text-align: center;">
+          <img src="featured.jpg" alt="Climate" style="max-width: 70%; height: auto; margin-bottom: 1.5rem;">
+        </div>
+
+        <div style="text-align: justify;">
+        Add a short description of this research domain here.  
+        You can write multiple sentences or even multiple paragraphs, and the
+        text will remain justified across the full width of the page.
+        </div>
 
   - block: collection
     content:
