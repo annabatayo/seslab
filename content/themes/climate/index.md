@@ -1,4 +1,9 @@
 ---
+title: Climate
+summary: understanding
+weight: 3
+type: landing
+
 sections:
   - block: markdown
     content:
