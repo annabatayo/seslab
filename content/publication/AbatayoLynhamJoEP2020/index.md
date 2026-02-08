@@ -17,7 +17,7 @@ publishDate: "2019-08-06T00:00:00Z"
 #  "5": "Reproduction Files"
 #  "6": "Report"
 #  "7": "Working Paper"
-publication_types: ["1"]
+publication_types: ["Research Article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Economic Psychology,* (79): 102195"

@@ -20,7 +20,7 @@ publishDate: "2020-06-01T00:00:00Z"
 #  "5": "Reproduction Files"
 #  "6": "Report"
 #  "7": "Working Paper"
-publication_types: ["1"]
+publication_types: ["Research Article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the National Academy of Sciences,* 117(24): 13393-13398"

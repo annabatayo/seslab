@@ -116,14 +116,3 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
-
-# Publication types
-
-publication_types:
-  "1": "Research Article"
-  "2": "Book"
-  "3": "Book Chapter"
-  "4": "Data Article"
-  "5": "Reproduction Files"
-  "6": "Report"
-  "7": "Working Paper"

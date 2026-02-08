@@ -10,7 +10,7 @@ authors:
 - Amada Schadeberg
 - Hunter Synder
 date: "2026-01-15T00:00:00Z"
-doi: "10.1086/724286"
+#doi: "10.1086/724286"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-01-15T00:00:00Z"
@@ -23,13 +23,13 @@ publishDate: "2026-01-15T00:00:00Z"
 #  "5": "Reproduction Files"
 #  "6": "Report"
 #  "7": "Working Paper"
-publication_types: ["3"]
+publication_types: ["Book Chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Springer,* 261-284"
 publication_short: ""
 
-abstract: Climate geoengineering strategies can help reduce the economic and ecological impacts of global warming. However, governing geoengineering is challenging. Since climate preferences vary across countries, excessive deployment relative to the socially optimal level is likely. Through a laboratory experiment on a public good-or-bad game, we study whether side-payments can address this governance problem. While theoretically effective, our experimental results show only a modest impact of side-payments on outcomes, especially in a multilateral setup. Replacing unstructured bilateral exchanges with a treaty framework simplifies the action space and performs moderately better.
+#abstract: Climate geoengineering strategies can help reduce the economic and ecological impacts of global warming. However, governing geoengineering is challenging. Since climate preferences vary across countries, excessive deployment relative to the socially optimal level is likely. Through a laboratory experiment on a public good-or-bad game, we study whether side-payments can address this governance problem. While theoretically effective, our experimental results show only a modest impact of side-payments on outcomes, especially in a multilateral setup. Replacing unstructured bilateral exchanges with a treaty framework simplifies the action space and performs moderately better.
 
 tags:
 - Marine

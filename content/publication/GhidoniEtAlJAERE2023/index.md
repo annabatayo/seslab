@@ -20,7 +20,7 @@ publishDate: "2023-07-15T00:00:00Z"
 #  "5": "Reproduction Files"
 #  "6": "Report"
 #  "7": "Working Paper"
-publication_types: ["1"]
+publication_types: ["Research Article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of the Association of Environmental and Resource Economists,* 10(5)"
