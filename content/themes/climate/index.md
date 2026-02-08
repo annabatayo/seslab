@@ -5,11 +5,13 @@ weight: 3
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
-      title: Climate
+      title: Climate Change
+      image:
+        filename: featured.jpg
       text: |
-        (Optional) Add a short description of this research domain here.
+        Add a short description of this research domain here.
 
   - block: collection
     content:
