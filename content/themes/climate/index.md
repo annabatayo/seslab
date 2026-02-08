@@ -1,12 +1,12 @@
 ---
-title: Marine
+title: Climate
 summary: understanding
-weight: 1
+weight: 3
 image:
   filename: featured.jpg
 ---
 
 {{< collection
   title="Publications"
-  filters="tag:Marine"
+  filters="tag:Climate"
 >}}

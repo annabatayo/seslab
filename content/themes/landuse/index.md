@@ -1,6 +1,12 @@
 ---
 title: Land-use
 summary: understanding
+weight: 4
 image:
-  filename: tradeoffs.jpg
+  filename: featured.jpg
 ---
+
+{{< collection
+  title="Publications"
+  filters="tag:Agroforestry"
+>}}
