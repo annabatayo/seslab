@@ -4,11 +4,22 @@ summary: understanding
 weight: 3
 image:
   filename: featured.jpg
----
+type: landing
 
-#Related publications
-{{< collection
-  filters="folder:publication tag:Climate"
-  sort="date_desc"
-  view="citation"
-  limit="50" >}}
+sections:
+  - block: markdown
+    content:
+      title: Climate
+      text: |
+        (Optional) Add a short description of this research domain here.
+
+  - block: collection
+    content:
+      title: Related publications
+      page_type: publication
+      count: 0              # 0 = show all
+      order: desc           # newest first
+      filters:
+        tag: Climate         # MUST match your publication tag exactly
+    design:
+      view: citation         # nice publication-style listing
