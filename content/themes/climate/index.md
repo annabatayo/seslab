@@ -2,8 +2,6 @@
 title: Climate
 summary: understanding
 weight: 3
-image:
-  filename: featured.jpg
 type: landing
 
 sections:
@@ -17,9 +15,10 @@ sections:
     content:
       title: Related publications
       page_type: publication
-      count: 0              # 0 = show all
-      order: desc           # newest first
+      count: 0
+      order: desc
       filters:
-        tag: Climate         # MUST match your publication tag exactly
+        tag: Climate
     design:
-      view: citation         # nice publication-style listing
+      view: citation
+---
