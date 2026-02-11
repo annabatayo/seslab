@@ -32,7 +32,7 @@ publication_short: ""
 #abstract: Climate geoengineering strategies can help reduce the economic and ecological impacts of global warming. However, governing geoengineering is challenging. Since climate preferences vary across countries, excessive deployment relative to the socially optimal level is likely. Through a laboratory experiment on a public good-or-bad game, we study whether side-payments can address this governance problem. While theoretically effective, our experimental results show only a modest impact of side-payments on outcomes, especially in a multilateral setup. Replacing unstructured bilateral exchanges with a treaty framework simplifies the action space and performs moderately better.
 
 tags:
-- Marine
+- Marine Systems
 - Behavioral Economics
 - Recreational Fishers
 featured: false

@@ -26,6 +26,7 @@ publication_short: ""
 abstract: It is widely believed that there is strong experimental evidence to support the idea that exogenously imposed regulations crowd out the intrinsic motivations of common pool resource (CPR) users to refrain from over-harvesting. We introduce a novel experimental design that attempts to disentangle potential confounds in previous experiments. A key feature of our experimental design is to have the exact same regulations chosen endogenously as those that are imposed exogenously. When we compare the same regulations chosen endogenously to those externally imposed, we observe no differences in extraction levels among CPR users in a laboratory experiment. We also observe no differences between weak external regulations and no regulations, after controlling for a potential confound. However, when we add communication to our endogenous treatment, we observe significant behavioral differences between endogenous regulations with communication and exogenous regulations without communication. Our results suggest that externally imposed regulations do not crowd out intrinsic motivations in the lab and they confirm that communication facilitates cooperation to reduce extraction.
 
 tags:
+- Behavior in the Commons
 - Communication
 - Regulations
 - Endogenous Regulations

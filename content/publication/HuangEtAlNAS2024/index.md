@@ -51,7 +51,7 @@ abstract: |
   research in sustainable bycatch management.
 
 tags:
-- Marine
+- Marine Systems
 - Fisheries
 featured: false
 

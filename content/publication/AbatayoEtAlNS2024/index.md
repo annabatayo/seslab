@@ -27,6 +27,7 @@ publication_short: ""
 abstract: The United States, like most other nations, has committed to protecting 30% of its land and oceans by 2030—known as 30-by-30—concurrent with societal goals such as reversing ‘inequitable access to the outdoors’. Although protected areas (PAs) in the United States are generally closer to wealthier and less racially diverse neighbourhoods, we find that marine PAs are closer to wealthier but more racially diverse neighbourhoods compared with terrestrial PAs. Achieving 30-by-30 may exacerbate inequitable access to nature because it will require more PAs inland, instead of near diverse coastal cities.
 
 tags:
+- Marine Systems
 - Protected Areas
 - Marine Protected Areas
 - Terrestrial Protected Areas

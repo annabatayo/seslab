@@ -29,6 +29,7 @@ publication_short: ""
 abstract: Climate engineering - the deliberate large-scale manipulation of the Earth’s climate system - is a set of technologies for reducing climate-change impacts and risks. It is controversial and raises novel governance challenges. We focus on the strategic implications of solar geoengineering. When countries engineer the climate, conflict can arise because different countries might prefer different temperatures. This would result in too much geoengineering -- the country with the highest preference for geoengineering cools the planet beyond what is socially optimal at the expense of the others - a theoretical possibility termed free-driving. This study is an empirical test of this hypothesis. We carry out an economic laboratory experiment based on a public good or bad game. We find compelling evidence of free-driving -- global geoengineering exceeds the socially efficient level and leads to welfare losses. We also evaluate the possibility of counteracting the geoengineering efforts of others. Results show that countergeoengineering generates high payoff inequality as well as heavy welfare losses, resulting from both strategic and behavioral factors. Finally, we compare strategic behavior in bilateral and multilateral settings. We find that welfare deteriorates even more under multilateralism when countergeoengineering is a possibility. These results have general implications for governing global good or bad commons.
 
 tags:
+- Behavior in the Commons
 - Geoengineering
 - Climate Engineering
 - Public Goods or Bads

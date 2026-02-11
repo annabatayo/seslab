@@ -26,8 +26,8 @@ publication_short: ""
 abstract: When are risk preferences stable and when do they change? In general, individual preferences tend to be consistent across time and space but extreme shocks, such as natural disasters, appear to change how people make economic decisions. We conduct an artefactual field experiment with fishers on a remote island in the Philippines and investigate the effect of Typhoon Bopha on risk preferences, along with fairness and time preferences. The typhoon destroyed coral reefs and reduced populations of fish, weakening food security. Comparing individuals from communities that were directly hit by the typhoon with those that were not, we observe evidence that those affected by the typhoon are less risk averse. Stratifying our sample by gender, we observe strong evidence that females affected by the typhoon are more risk-loving than females unaffected by the typhoon. These results are consistent with the hypothesis that extreme negative events cause individuals to be more willing to accept greater risk in return for a larger financial reward.
 
 tags:
-- Climate
-- Marine
+- Behavior in the Commons
+- Marine Systems
 - Natural Disasters
 - Risk Preferences
 - Fishers
