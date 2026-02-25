@@ -25,18 +25,18 @@ publication: "*Regional Environmental Change,* 25(112)"
 publication_short: ""
 
 abstract: |
-In recent years, it has become evident that regions with historically wetter climates, such as the Netherlands, 
-are rapidly becoming more prone to drought due to climate change. Given that these regions tend to be accustomed 
-to having sufficient, or even surplus, water, these new climate realities confront policy makers with the need to identify 
-governance approaches to adapt water and land use systems to prevent significant damages to agriculture, 
-water-dependent nature, and drinking water reserves. This research details the complex, evolving landscape of 
-the policies, laws, and instruments in a specific region with a historically wetter climate, namely the Twente region 
-in the Netherlands. Rapid Policy Network Mapping is employed to map the intricate multi-level implementation setting
- currently in place in the region. Results show that the emphasis in drought governance across European Union 
- and national and regional governance layers is currently still on formulating objectives and developing strategies 
- to adapt to drought. Moreover, the instruments that are currently in place are largely voluntary in nature, which 
- raises concerns about the degree to which the current instrument mix can steer drought adaptation if their uptake 
- is low. More worryingly, this study also identifies several policies, laws, and instruments that could hinder the
+  In recent years, it has become evident that regions with historically wetter climates, such as the Netherlands, 
+  are rapidly becoming more prone to drought due to climate change. Given that these regions tend to be accustomed 
+  to having sufficient, or even surplus, water, these new climate realities confront policy makers with the need to identify 
+  governance approaches to adapt water and land use systems to prevent significant damages to agriculture, 
+  water-dependent nature, and drinking water reserves. This research details the complex, evolving landscape of 
+  the policies, laws, and instruments in a specific region with a historically wetter climate, namely the Twente region 
+  in the Netherlands. Rapid Policy Network Mapping is employed to map the intricate multi-level implementation setting
+  currently in place in the region. Results show that the emphasis in drought governance across European Union 
+  and national and regional governance layers is currently still on formulating objectives and developing strategies 
+  to adapt to drought. Moreover, the instruments that are currently in place are largely voluntary in nature, which 
+  raises concerns about the degree to which the current instrument mix can steer drought adaptation if their uptake 
+  is low. More worryingly, this study also identifies several policies, laws, and instruments that could hinder the
   implementation of drought adaptation measures, due to exemptions in legislation, conflicting policy approaches 
   across governance layers, and concerns over the (behavioral) effects of certain instruments.
 
