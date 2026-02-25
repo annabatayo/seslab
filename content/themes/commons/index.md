@@ -27,6 +27,14 @@ sections:
 
   - block: collection
     content:
+      title: Related Projects
+      page_type: projects
+      filters:
+        tag: Behavior in the Commons
+    design:
+      view: card
+  - block: collection
+    content:
       title: Related publications
       page_type: publication
       count: 0
