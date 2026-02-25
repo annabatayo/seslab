@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Economics
+  - Resource Economics
+  - Experimental Economics
+  - Behavioral Economics
 
 education:
   courses:
@@ -44,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:anna.abatayo@wur.nl'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
