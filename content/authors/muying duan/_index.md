@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yustina Wambrauw
+title: Muying Duan
 
 # Full Name (for SEO)
-first_name: Yustina
-last_name: Wambrauw
+first_name: Muying
+last_name: Duan
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,7 +30,7 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: Masters in Economics
       institution: Massachusetts Institute of Technology
       year: 2009
     - course: BSc in Artificial Intelligence

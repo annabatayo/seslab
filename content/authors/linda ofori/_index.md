@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yustina Wambrauw
+title: Linda Ofori
 
 # Full Name (for SEO)
-first_name: Yustina
-last_name: Wambrauw
+first_name: Linda
+last_name: Ofori
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: PhD Candidate

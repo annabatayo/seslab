@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yustina Wambrauw
+title: Wenyuan Hua
 
 # Full Name (for SEO)
-first_name: Yustina
-last_name: Wambrauw
+first_name: Wenyuan
+last_name: Hua
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: PhD Candidate
