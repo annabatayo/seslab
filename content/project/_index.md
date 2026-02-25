@@ -8,18 +8,24 @@ sections:
       title: Ongoing Projects
       page_type: project
       filters:
-        status: ongoing
+        folders:
+          - project
+        tags:
+          - Ongoing
       order: desc
     design:
-      view: compact
+      view: card
 
   - block: collection
     content:
       title: Completed Projects
       page_type: project
       filters:
-        status: completed
+        folders:
+          - project
+        tags:
+          - Completed
       order: desc
     design:
-      view: compact
+      view: card
 ---
