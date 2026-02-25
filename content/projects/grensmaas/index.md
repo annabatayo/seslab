@@ -1,12 +1,12 @@
 ---
-title: NoRegets
+title: Grensmas
 summary: Summary of this project
 date: 2022-01-01
 
 status: ongoing   # OR completed
 
 tags:
-  - Marine Systems
+  - Ecosystem Restoration
   - Windfarms
   - North Sea
 
