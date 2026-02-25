@@ -24,7 +24,7 @@ sections:
   - block: collection
     content:
       title: Related Projects
-      page_type: projects
+      page_type: project
       filters:
         tag: Ecosystem Restoration
     design:
