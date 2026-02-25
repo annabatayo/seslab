@@ -10,8 +10,8 @@ sections:
       filters:
         folders:
           - project
-        tag:
-          - Ongoing
+        tags:
+          - Ecosystem Restoration
       order: desc
     design:
       view: compact
@@ -23,7 +23,7 @@ sections:
       filters:
         folders:
           - project
-        tag:
+        tags:
           - Completed
       order: desc
     design:

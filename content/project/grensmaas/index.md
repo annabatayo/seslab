@@ -3,7 +3,7 @@ title: Grensmas
 summary: Summary of this project. Summarize. 
 date: 2022-01-01
 
-tag:
+tags:
   - Ecosystem Restoration
   - Windfarms
   - North Sea
