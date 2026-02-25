@@ -1,5 +1,5 @@
 ---
-title: Marine
+title: Marine Systems
 summary: understanding
 weight: 1
 type: landing
@@ -7,11 +7,11 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Marine
+      title: Marine Systems
       text: |
         <div>
           <img src="featured.jpg"
-               alt="Climate"
+               alt="Marine Systems"
                style="display: block; margin: 0 auto 1.5rem auto; max-width: 70%; height: auto;">
         </div>
 
@@ -28,7 +28,7 @@ sections:
       count: 0
       order: desc
       filters:
-        tag: Marine
+        tag: Marine Systems
     design:
       view: citation
 ---

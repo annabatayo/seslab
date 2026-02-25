@@ -18,25 +18,26 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is on ex-ante and ex-post evaluation of environmental policies through economic experiments and impact evalaution methods.
 
 interests:
   - Environmental Economics
-  - Resource Economics
+  - Natural Resource Economics
   - Experimental Economics
   - Behavioral Economics
+  - Impact Evaluation
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Economics
+      institution: University of Hawai'i at Manoa
+      year: 2015
+    - course: MA in Economics
+      institution: University of the Philippines - Diliman
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Management Engineering
+      institution: Ateneo de Manila University
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,9 +71,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Theme Leaders
+  - Core Team
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an assistant professor with the 
+Environmental Economics and Natural Resources Group, Section Economics, 
+Wageningen University and Research. My research aims to inform and evaluate
+environmental policies, both formal and informal arrangements, in two ways: (1)
+by testing policies in a controlled way prior to implementation (main methodology:
+economic experiments) and (2) by evaluating the effects of existing policies (main
+methodology: impact evaluation). 

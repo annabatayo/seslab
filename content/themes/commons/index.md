@@ -1,5 +1,5 @@
 ---
-title: Sanitation
+title: Behavior in the Commons
 summary: understanding
 weight: 5
 type: landing
@@ -7,15 +7,15 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Sanitation
+      title: Behavior in the Commons
 sections:
   - block: markdown
     content:
-      title: Sanitation
+      title: Behavior in the Commons
       text: |
         <div>
           <img src="featured.jpg"
-               alt="Climate"
+               alt="Behavior in the Commons"
                style="display: block; margin: 0 auto 1.5rem auto; max-width: 70%; height: auto;">
         </div>
 
@@ -32,7 +32,7 @@ sections:
       count: 0
       order: desc
       filters:
-        tag: Sanitation
+        tag:  Commons
     design:
       view: citation
 ---

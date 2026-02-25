@@ -1,17 +1,17 @@
 ---
-title: Land-use
+title: Ecosystem Restoration
 summary: understanding
-weight: 4
+weight: 2
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Land-use
+      title: Ecosystem Restoration
       text: |
         <div>
           <img src="featured.jpg"
-               alt="Climate"
+               alt="Ecosystem Restoration"
                style="display: block; margin: 0 auto 1.5rem auto; max-width: 70%; height: auto;">
         </div>
 
@@ -28,7 +28,7 @@ sections:
       count: 0
       order: desc
       filters:
-        tag: Agroforestry
+        tag: Ecosystem Restoration
     design:
       view: citation
 ---

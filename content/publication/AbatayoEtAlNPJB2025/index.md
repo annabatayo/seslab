@@ -28,7 +28,7 @@ publication_short: ""
 abstract: The governance of genetic resources and their digital sequence information (DSI) faces challenges in achieving globally equitable benefit-sharing under the Convention on Biological Diversity. Citizens in nine countries across the Global North and South reveal diverging preferences on whether a benefit-sharing system should rely on monetary or non-monetary contributions, and whether governments should be responsible for payments. However, consensus emerges in favor of criteria-based DSI allocations and designated funding purposes.
 
 tags:
-- Nature-based Solutions
+- Ecosystem Restoration
 - Biodiversity
 - Conservation
 - Survey
