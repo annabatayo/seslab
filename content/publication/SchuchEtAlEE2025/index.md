@@ -24,8 +24,11 @@ publication_types: ["research-article"]
 publication: "*Ecological Economics,* 108547"
 publication_short: ""
 
-#abstract: |
-The tendency to cooperate in social dilemma situations strongly depends on how the decision is framed. Cooperation levels are higher in decisions that involve doing something good to others, rather than avoiding harm. This insight mostly comes from linear public goods games. We conduct a threshold public goods game – framed as a public good or public bad – that requires players to coordinate on a threshold. We find that the level of cooperation and group success in reaching the threshold are higher in a positive than a negative frame. We find the role of beliefs to be salient, as players hold more optimistic beliefs about contributions of others in the negative frame. Generally, contributions exceed the best-response, but are not sufficient to close the gap between the too optimistic beliefs and actual contributions in the negative frame. Hence, contributions and group success are lower in the public bad game.
+abstract: |
+  The tendency to cooperate in social dilemma situations strongly depends on how the decision is framed. Cooperation levels are higher in decisions that involve doing something good to others, rather than avoiding harm. This insight mostly comes from linear public   
+  goods games. We conduct a threshold public goods game – framed as a public good or public bad – that requires players to coordinate on a threshold. We find that the level of cooperation and group success in reaching the threshold are higher in a positive than a 
+  negative frame. We find the role of beliefs to be salient, as players hold more optimistic beliefs about contributions of others in the negative frame. Generally, contributions exceed the best-response, but are not sufficient to close the gap between the too optimistic beliefs 
+  and actual contributions in the negative frame. Hence, contributions and group success are lower in the public bad game.
 
 tags:
 - Behavior in the Commons
