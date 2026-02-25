@@ -8,10 +8,7 @@ sections:
       title: Ongoing Projects
       page_type: project
       filters:
-        folders:
-          - project
-        tags:
-          - Ecosystem Restoration
+        tags: Ongoing
       order: desc
     design:
       view: compact
@@ -21,10 +18,7 @@ sections:
       title: Completed Projects
       page_type: project
       filters:
-        folders:
-          - project
-        tags:
-          - Completed
+        tags: Completed
       order: desc
     design:
       view: compact
