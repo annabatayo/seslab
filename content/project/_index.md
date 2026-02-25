@@ -10,11 +10,11 @@ sections:
       filters:
         folders:
           - project
-        tags:
+        tag:
           - Ongoing
       order: desc
     design:
-      view: card
+      view: compact
 
   - block: collection
     content:
@@ -23,9 +23,9 @@ sections:
       filters:
         folders:
           - project
-        tags:
+        tag:
           - Completed
       order: desc
     design:
-      view: card
+      view: compact
 ---
