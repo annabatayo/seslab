@@ -8,7 +8,7 @@ sections:
       title: Ongoing Projects
       page_type: project
       filters:
-        tags: Ongoing
+        tag: Ongoing
       order: desc
     design:
       view: compact
@@ -18,7 +18,7 @@ sections:
       title: Completed Projects
       page_type: project
       filters:
-        tags: Completed
+        tag: Completed
       order: desc
     design:
       view: compact
