@@ -11,7 +11,7 @@ sections:
         tag: Ongoing
       order: desc
     design:
-      view: compact
+      view: card
 
   - block: collection
     content:
@@ -21,5 +21,5 @@ sections:
         tag: Completed
       order: desc
     design:
-      view: compact
+      view: card
 ---

@@ -28,7 +28,7 @@ sections:
       filters:
         tag: Ecosystem Restoration
     design:
-      view: card
+      view: citation
   - block: collection
     content:
       title: Related publications
