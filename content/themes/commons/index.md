@@ -32,7 +32,7 @@ sections:
       count: 0
       order: desc
       filters:
-        tag:  Commons
+        tag: Behavior in the Commons
     design:
       view: citation
 ---

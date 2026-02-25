@@ -32,7 +32,8 @@ publication_short: ""
 #abstract: Experimentation in natural science is commonplace, and the reasons and methods for undertaking it are well understood. The use of experimental methods has risen remarkably over the last 25 years in the field of economics and has had a tremendous impact on the way economic research is carried out. This raises the question; how can economic experiments advance our understanding of recreational fishing. Here, we argue that many opportunities and benefits exist for the application. There have already been several successful experiments (in the lab or the field) to understand the drivers of recreational fisher behaviour. Despite these efforts, there remains a raft of opportunities to use experiments to help understand cause and effect in terms of recreational fisher behaviour. In this chapter, we provide a taxonomy of economic experiments and highlight their application to recreational fisheries. We sketch how controlled and uncontrolled interventions in recreational fisheries are learning opportunities to better understand fisher behaviour and social-ecological dynamics. Further, we highlight practical aspects of experimentation that will help its implementation and suggest opportunities for future experiments in recreational fisheries.
 
 tags:
-- Marine
+- Marine Systems
+- Recreational Fishers
 - Experimental Economics
 - Recreational Fishers
 featured: false
