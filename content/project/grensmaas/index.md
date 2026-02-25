@@ -1,14 +1,13 @@
 ---
 title: Grensmas
-summary: Summary of this project
+summary: Summary of this project. Summarize. 
 date: 2022-01-01
-
-status: ongoing   # OR completed
 
 tags:
   - Ecosystem Restoration
   - Windfarms
   - North Sea
+  - Completed
 
 authors:
   - Anna Lou Abatayo

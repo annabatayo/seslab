@@ -11,7 +11,7 @@ sections:
         status: ongoing
       order: desc
     design:
-      view: card
+      view: compact
 
   - block: collection
     content:
@@ -21,5 +21,5 @@ sections:
         status: completed
       order: desc
     design:
-      view: card
+      view: compact
 ---
