@@ -28,7 +28,7 @@ sections:
       filters:
         tag: Marine Systems
     design:
-      view: citation
+      view: compact
   - block: collection
     content:
       title: Related publications

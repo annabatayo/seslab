@@ -32,7 +32,7 @@ sections:
       filters:
         tag: Behavior in the Commons
     design:
-      view: citation
+      view: compact
   - block: collection
     content:
       title: Related publications
