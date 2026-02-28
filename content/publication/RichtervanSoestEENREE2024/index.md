@@ -35,13 +35,13 @@ abstract: |
   cooperation in resource use such as punishments, rewards, and communication.
 
 tags:
-- Behavior in the Commons
+- Commons
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
