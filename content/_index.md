@@ -10,7 +10,7 @@ sections:
       title: |
         Economics of Social-Ecological Systems
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         
