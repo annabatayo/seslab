@@ -1,11 +1,8 @@
 ---
-title: "The Role of Non-fishing and Partner Incomes in Managing Fishers' Economic Risk"
+title: "Experiment on common property management"
 authors:
-- Sanmitra Gokhale
-- Johan Blomquist
-- Martin Lindegren
 - Andries Richter
-- Staffan Waldo
+- Daan van Soest
 date: "2024-10-01T00:00:00Z"
 #doi: "10.1086/724286"
 
@@ -20,28 +17,31 @@ publishDate: "2024-10-01T00:00:00Z"
 #  "reproduction-files": "Reproduction Files"
 #  "report": "Report"
 #  "working-paper": "Working Paper"  
-publication_types: ["research-article"]
+publication_types: ["book-chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Marine Resource Economics,* 39(4)"
+publication: "*Encyclopedia of Energy, Natural Resource and Environmental Economics*"
 publication_short: ""
 
 abstract: |
-  Managing economic risk is a challenging endeavor for fishers. One of the ways to mitigate such risk is through income diversification 
-  spanning even beyond fishing activities. However, the role of non-fishing income on risk management has been poorly understood. 
-  Here we investigate the relationship between fishing risk levels and secondary incomes by analyzing risk levels of fishers’ incomes 
-  from fishing, non-fishing, and partner income sources for Swedish fisheries from 2004 to 2015. We find that fishers with a balanced 
-  share of fishing and secondary incomes have lower risk levels than fishers who primarily rely on fishing income. Both non-fishing 
-  income and partner income reduce risk levels.
+  Common property resources are (renewable) natural resources where current excessive extraction reduces future 
+  resource availability, and the use of which is de facto restricted to a specific set of agents, such as inhabitants of a 
+  village or members of a community; think of community-owned forests, coastal fisheries, or water reserves used for 
+  irrigation purposes. Standard economic theory predicts that the shared use of a renewable natural resource results 
+  in the resource being overexploited. In the real world, some commonly owned resources are indeed severely 
+  degraded, but others are not. Identifying why community resource management is successful in some instances 
+  but not in others is difficult because of the many confounding mechanisms that are present in the real world. 
+  Therefore, economists use economic experiments to pretest the effectiveness of various institutions in sustaining 
+  cooperation in resource use such as punishments, rewards, and communication.
 
 tags:
-- Marine Systems
+- Behavior in the Commons
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.journals.uchicago.edu/doi/full/10.1086/731762
+url_pdf: "
 url_code: ''
 url_dataset: ''
 url_poster: ''
