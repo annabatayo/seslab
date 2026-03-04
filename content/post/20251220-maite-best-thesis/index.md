@@ -1,11 +1,13 @@
 ---
-title: Maite den Butter Wins the REMagine Awards for Best Master's Thesis in Economics and Business
-date: 2020-12-02
+title: Maite den Butter Wins Best Master's Thesis in Economics and Business
+date: 2025-12-20
 image:
   focal_point: 'top'
+authors:
+  - Anna Lou Abatayo
 ---
 
-Congratulations to Maite den Butter for winning the REMagine Awards for the best master's thesis in economics and business under the category "Broad Perspectives on Welfare".
+Congratulations to Maite den Butter for winning the Dutch REMagine Awards for the best master's thesis in economics and business under the category "Broad Perspectives on Prosperity".
 
 <!--more-->
 
