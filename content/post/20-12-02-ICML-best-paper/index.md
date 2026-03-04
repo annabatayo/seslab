@@ -1,5 +1,5 @@
 ---
-title: Maite den Butter Wins the REMagine Awards for Best Master's Thesis
+title: Maite den Butter Wins the REMagine Awards for Best Master's Thesis in Economics and Business
 date: 2020-12-02
 image:
   focal_point: 'top'
