@@ -1,6 +1,6 @@
 ---
 title: Behavior in the Commons
-summary: We study how individual behavior, social norms, and institutions shape cooperation and resource use in shared natural resource systems using experimental economics methods, case studies, and impact evaluation methods.
+summary: We study how individual behavior, social norms, and institutions shape cooperation and resource use in shared natural resource systems and common-pool resources.
 weight: 5
 type: landing
 
