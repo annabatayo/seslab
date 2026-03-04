@@ -2,8 +2,9 @@
 title: "Disserration tite"
 authors:
   - Anna Winter
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2021-12-12
+lastmod: 2021-12-13
+publishDate: 2021-12-14
 summary: "This dissertation...."
 
 image:

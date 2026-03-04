@@ -3,7 +3,8 @@ title: "Navigating Sustainably in Stormy Waters: Economic Risks in Fisheries and
 authors:
   - Sanmitra Gokhale
 date: 2024-09-24
-lastmod: 2024-09-24
+lastmod: 2024-09-25
+publishDate: 2024-09-26
 summary: "This dissertation examines how fishers and fisheries institutions manage economic risk, focusing on income diversification, subsidies, and global market linkages in shaping fishers’ livelihoods and fish stock sustainability."
 
 image:

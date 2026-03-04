@@ -20,6 +20,11 @@ removePathAccents: true
 ############################
 
 enableGitInfo: false
+frontmatter:
+  lastmod:
+    - lastmod
+    - date
+    - publishDate
 summaryLength: 30
 pagination:
   pagerSize: 10

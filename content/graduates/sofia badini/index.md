@@ -3,7 +3,8 @@ title: "Essays on Adaptation to Environmental Change"
 authors:
   - Sofia Badini
 date: 2025-12-12
-lastmod: 2025-12-12
+lastmod: 2025-12-13
+publishDate: 2025-12-14
 summary: "This dissertation examines how households, institutions, and policy frameworks respond to environmental risks, focusing on climate adaptation, risk communication, nature-based solutions, and drought impacts on land use."
 
 image:

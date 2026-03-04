@@ -3,7 +3,8 @@ title: "Self-governance of Water Resources Under Climate Change: Insights from C
 authors:
   - Tum Nhim
 date: 2021-07-01
-lastmod: 2021-07-01
+lastmod: 2021-07-02
+publishDate: 2021-07-03
 summary: "This dissertation investigates how cooperation and institutional arrangements emerge and persist in small-scale irrigation systems under climate change, focusing on how scarcity, inequality, and governance influence collective action among water users."
 
 image:
