@@ -5,7 +5,7 @@ date: 2022-01-01
 
 tags:
   - Behavior in the Commons
-  - Ongoing
+  - Completed
 
 authors:
   - Anna Lou Abatayo
