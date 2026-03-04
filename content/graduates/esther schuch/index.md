@@ -2,8 +2,9 @@
 title: "Behavior, uncertainty, and the role of information on resource management"
 authors:
   - Esther Schuch
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2020-10-20
+lastmod: 2020-10-21
+publishDate: 2020-10-22
 summary: "This dissertation examines how information, uncertainty, and human behavior influence cooperation and decision-making in fisheries management across informal community institutions and formal governance systems."
 
 image:
