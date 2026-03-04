@@ -1,6 +1,6 @@
 ---
 title: Marine Systems
-summary: understanding
+summary: We study the interactions between fisheries, marine ecosystems, and coastal communities to inform sustainable ocean management and marine conservation policies.
 weight: 1
 type: landing
 
@@ -16,9 +16,13 @@ sections:
         </div>
 
         <div style="text-align: justify;">
-        Add a short description of this research domain here.  
-        You can write multiple sentences or even multiple paragraphs, and the
-        text will remain justified across the full width of the page.
+        Marine ecosystems support biodiversity, food security, and livelihoods for millions 
+        of people, yet they face increasing pressures from overfishing, climate change, 
+        and habitat degradation. Our research examines the interactions between fisheries, 
+        marine ecosystems, and coastal communities, using spatial data, experiments, and 
+        policy analysis to understand human behavior and evaluate conservation interventions 
+        such as marine protected areas. We aim to generate evidence that supports sustainable 
+        fisheries management and effective ocean governance.
         </div>
 
   - block: collection

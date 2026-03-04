@@ -1,6 +1,6 @@
 ---
 title: Behavior in the Commons
-summary: understanding
+summary: We study how individual behavior, social norms, and institutions shape cooperation and resource use in shared natural resource systems.
 weight: 5
 type: landing
 
@@ -20,9 +20,12 @@ sections:
         </div>
 
         <div style="text-align: justify;">
-        Add a short description of this research domain here.  
-        You can write multiple sentences or even multiple paragraphs, and the
-        text will remain justified across the full width of the page.
+        Many environmental challenges involve the management of shared natural resources, 
+        where individual decisions collectively determine sustainability outcomes. Our research 
+        investigates how human behavior, social norms, and institutions influence cooperation 
+        and resource use in common-pool resources. Using experimental methods, field studies, 
+        and policy analysis, we explore mechanisms that can foster collective action and improve 
+        the governance of shared social-ecological systems.
         </div>
 
   - block: collection

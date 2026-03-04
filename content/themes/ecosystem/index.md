@@ -1,6 +1,6 @@
 ---
 title: Ecosystem Restoration
-summary: understanding
+summary: We analyze how restoration policies and nature-based solutions can recover ecosystems while delivering benefits for biodiversity, climate mitigation, and society.
 weight: 2
 type: landing
 
@@ -16,9 +16,12 @@ sections:
         </div>
 
         <div style="text-align: justify;">
-        Add a short description of this research domain here.  
-        You can write multiple sentences or even multiple paragraphs, and the
-        text will remain justified across the full width of the page.
+	Ecosystem restoration and nature-based solutions are increasingly promoted to address 
+	biodiversity loss, climate change, and ecosystem degradation. Our work studies the 
+	ecological and socio-economic impacts of restoration interventions, including how 
+	policies, incentives, and community engagement influence restoration outcomes. By combining 
+	ecological insights with behavioral and economic approaches, we seek to identify strategies 
+	that support both ecosystem recovery and human well-being.
         </div>
 
   - block: collection
