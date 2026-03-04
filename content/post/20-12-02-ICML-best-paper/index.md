@@ -1,5 +1,5 @@
 ---
-title: Maite den Butter Wins the Dutch REMagine Awards for Best Master's Thesis in Economics in Business
+title: Maite den Butter Wins the REMagine Awards for Best Master's Thesis
 date: 2020-12-02
 image:
   focal_point: 'top'
@@ -9,8 +9,10 @@ Congratulations to Maite den Butter for winning the REMagine Awards for the best
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Maite den Butter, a graduate of the MSc Economics of Sustainability (MME-D) program at Wageningen University, received the REMagine Award for her thesis examining the effects of Marine Protected Area (MPA) establishment on the well-being of coastal communities in Indonesia. While much of the existing literature focuses on the ecological benefits of MPAs, her research explores their broader social and economic impacts. In particular, the study investigates how conservation policies can shape livelihoods and welfare outcomes for people living near protected marine ecosystems.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Using household survey data and empirical analysis, Maite examined how communities living near long-established MPAs in Papua and West Papua experience changes in well-being following conservation interventions. Her research highlights how marine conservation policies can influence livelihoods, local economic opportunities, and overall community welfare. The findings contribute to a growing body of work that seeks to better understand the human dimensions of marine conservation.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+The thesis was supervised by **Anna Lou Abatayo** and **Andries Richter** at Wageningen University. The study contributes to ongoing research at the group on marine systems, conservation policy, and the social-ecological dynamics of resource management. By examining both environmental and social outcomes, the work illustrates the importance of integrating economic and behavioral perspectives into marine conservation research.
+
+We warmly congratulate Maite on this well-deserved recognition. Her achievement reflects the high quality of student research within the Environmental Economics and Natural Resources group. We look forward to seeing how her work continues to contribute to research on sustainable ocean governance and marine conservation.
