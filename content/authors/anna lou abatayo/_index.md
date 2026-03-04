@@ -30,7 +30,7 @@ interests:
 education:
   courses:
     - course: PhD in Economics
-      institution: University of Hawai'i at Manoa
+      institution: University of Hawai'i at Mānoa
       year: 2015
     - course: MA in Economics
       institution: University of the Philippines - Diliman
@@ -47,15 +47,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:anna.abatayo@wur.nl'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+  - icon: orcid
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://orcid.org/0000-0002-2686-5075
+  - icon: publons
+    icon_pack: ai
+    link: https://publons.com/researcher/1865838/anna-lou-abatayo/
+  - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=ZNnP2tQAAAAJ&hl=en&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +66,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,10 +74,6 @@ user_groups:
   - Core Team
 ---
 
-I am an assistant professor with the 
-Environmental Economics and Natural Resources Group, Section Economics, 
-Wageningen University and Research. My research aims to inform and evaluate
-environmental policies, both formal and informal arrangements, in two ways: (1)
-by testing policies in a controlled way prior to implementation (main methodology:
-economic experiments) and (2) by evaluating the effects of existing policies (main
-methodology: impact evaluation). 
+I am an Assistant Professor with the <a href="https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Environmental-Economics-and-Natural-Resources-Group.htm">Environmental Economics and Natural Resources Group</a>, Section Economics, <a href="https://www.wur.nl/en.htm">Wageningen University and Research</a>. My research aims to inform and evaluate environmental policies, both formal and informal arrangements, in two ways: (1) by testing policies in a controlled way prior to implementation (main methodology: economic experiments) and (2) by evaluating the effects of existing policies (main methodology: impact evaluation). For more information, please visit my <a href="https://annabatayo.com">personal website</a>. 
+
+
