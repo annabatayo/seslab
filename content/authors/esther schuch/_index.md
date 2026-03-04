@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on how uncertainty, information, and human behavior influence cooperation and decision-making in the governance of natural resources and fisheries.
 
 #interests:
 #  - Artificial Intelligence
@@ -72,6 +72,4 @@ user_groups:
   - Alumni
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on how uncertainty and information shape decision-making and cooperation in the management of natural resources, particularly fisheries. I study how individuals, communities, and institutions respond to different types of uncertainty, including social uncertainty about the behavior of others, strategic uncertainty about optimal actions, and ecological uncertainty about resource dynamics. Using experimental methods, survey data, and policy analysis, I examine how behavioral factors such as trust, risk aversion, framing, and anchoring influence both cooperative behavior and expert judgment. My work also explores how scientific information is incorporated into formal governance systems and how institutional design affects the ability of policies to respond to changing environmental conditions.

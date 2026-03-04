@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on collective action in social-ecological systems, particularly how institutions, cooperation, and resource scarcity shape the governance of common-pool resources.
 
 #interests:
 #  - Artificial Intelligence
@@ -72,6 +72,4 @@ user_groups:
   - Alumni
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on how communities manage shared natural resources in the face of environmental change. I study small-scale irrigation systems as social-ecological systems, examining how resource scarcity, inequality, and institutional arrangements influence cooperation among resource users. Using a combination of agent-based modeling and field experiments, I investigate how governance mechanisms, social norms, and social capital shape collective action in managing common-pool resources and investing in shared infrastructure. Through this work, I aim to better understand how institutions can support sustainable and resilient resource management under climate change.
