@@ -11,7 +11,7 @@ main:
     url: people
     weight: 20
   - name: Graduates
-    url: dissertations
+    url: graduates
     weight: 40  
   - name: News
     url: post

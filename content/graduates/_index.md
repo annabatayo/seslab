@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       title: Dissertations
-      page_type: dissertations
+      page_type: graduates
       count: 0
       order: desc
     design:
