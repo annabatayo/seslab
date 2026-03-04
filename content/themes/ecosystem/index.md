@@ -16,12 +16,12 @@ sections:
         </div>
 
         <div style="text-align: justify;">
-	Ecosystem restoration and nature-based solutions are increasingly promoted to address 
-	biodiversity loss, climate change, and ecosystem degradation. Our work studies the 
-	ecological and socio-economic impacts of restoration interventions, including how 
-	policies, incentives, and community engagement influence restoration outcomes. By combining 
-	ecological insights with behavioral and economic approaches, we seek to identify strategies 
-	that support both ecosystem recovery and human well-being.
+        Ecosystem restoration and nature-based solutions are increasingly promoted to address 
+        biodiversity loss, climate change, and ecosystem degradation. Our work studies the 
+        ecological and socio-economic impacts of restoration interventions, including how 
+        policies, incentives, and community engagement influence restoration outcomes. By combining 
+        ecological insights with behavioral and economic approaches, we seek to identify strategies 
+        that support both ecosystem recovery and human well-being.
         </div>
 
   - block: collection
