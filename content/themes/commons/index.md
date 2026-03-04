@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: Behavior in the Commons
-sections:
+
   - block: markdown
     content:
       title: Behavior in the Commons
@@ -18,11 +18,6 @@ sections:
                alt="Behavior in the Commons"
                style="display: block; margin: 0 auto 1.5rem auto; max-width: 70%; height: auto;">
         </div>
-        
-        image:
- 	caption: Illustrated by Anna Lou Abatayo
-	focal_point: Smart
-
 
         <div style="text-align: justify;">
         Many environmental challenges involve the management of shared natural resources, 
@@ -33,6 +28,9 @@ sections:
         the governance of shared social-ecological systems.
         </div>
 
+    design:
+      columns: "1"
+
   - block: collection
     content:
       title: Related Projects
@@ -41,6 +39,7 @@ sections:
         tag: Behavior in the Commons
     design:
       view: compact
+
   - block: collection
     content:
       title: Related publications
@@ -51,4 +50,8 @@ sections:
         tag: Behavior in the Commons
     design:
       view: citation
+
+image:
+  caption: Illustrated by Anna Lou Abatayo
+  focal_point: Smart
 ---
