@@ -8,7 +8,7 @@ sections:
     content:
       title: Contact
       text: |-
-        SES Lab is located at Wageningen University & Research.
+        The Environmental Economics and Natural Resources Group is located in Building 201 (Leeuwenborch).
 
       address:
         street: Hollandseweg 1
@@ -16,6 +16,12 @@ sections:
         postcode: '6706 KN'
         country: Netherlands
         country_code: NL
+        
+        **Postal address**  
+        Environmental Economics and Natural Resources Group  
+        P.O. Box 8130  
+        6700 EW Wageningen  
+        The Netherlands
 
       directions: Enter the building from the main entrance and follow the signs to the Environmental Economics and Natural Resources group.
 
