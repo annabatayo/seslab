@@ -43,4 +43,8 @@ sections:
         tag: Marine Systems
     design:
       view: citation
+      
+image:
+  caption: Illustrated by Anna Lou Abatayo
+  focal_point: Smart      
 ---

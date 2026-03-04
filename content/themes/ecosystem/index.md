@@ -42,4 +42,8 @@ sections:
         tag: Ecosystem Restoration
     design:
       view: citation
+      
+image:
+  caption: Illustrated by Anna Lou Abatayo
+  focal_point: Smart      
 ---
