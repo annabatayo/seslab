@@ -3,8 +3,8 @@
 title: Jorge Montero
 
 # Full Name (for SEO)
-first_name: Jorge
-last_name: Montero
+first_name: Jorge Luis
+last_name: Montero Mestre
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,24 +18,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on fisheries dynamics and environmental resource management using data-driven approaches.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Economics
+  - Fisheries Economics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: Universidad de los Andes
+      year: 2025
+    - course: MSC Economics
+      institution: Universidad de los Andes
+      year: 2023
+    - course: BS Economics
+      institution: Universidad de Cartagena
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +43,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:jl.montero@uniandes.edu.co'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=kztSTOIAAAAJ&hl=en
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +71,4 @@ user_groups:
   - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Postdoctoral Researcher in the Department of Economics at <a href="https://economia.uniandes.edu.co/">Universidad de los Andes</a> and a Research Associate affiliated with the <a href="https://www.uni-giessen.de/de/fbz/zentren/zeu/sdgnexus">SDG Nexus Network</a> at Justus Liebig University Giessen, Germany. My research agenda lies at the intersection of applied environmental economics and the governance of natural resources in both developed and developing country contexts. I am particularly interested in examining how incentives, institutions, and regulatory mechanisms influence the sustainable use of common-pool resources such as fisheries, forests, and protected areas. For more information, visit my <a href="https://jorgephd.github.io/jlmontero.github.io/">personal website</a>.
