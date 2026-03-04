@@ -9,11 +9,9 @@ sections:
       page_type: graduates
       count: 3
       order: desc
+      archive:
+        link: /graduates/all/
+        text: See more graduates →
     design:
       view: compact
-
-  - block: markdown
-    content:
-      text: |
-        [See more graduates →](/graduates/all/)
 ---
