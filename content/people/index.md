@@ -14,7 +14,7 @@ sections:
           - Core Team
           - PhDs and Postdocs
           - Visitors
-          - Alumni
+#          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
