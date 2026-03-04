@@ -1,9 +1,9 @@
 ---
-title: Navigating Sustainably in Stormy Waters: Economic Risks in Fisheries and the Role of Income Diversification and Governance
+title: "Navigating Sustainably in Stormy Waters: Economic Risks in Fisheries and the Role of Income Diversification and Governance"
 authors:
   - Sanmitra Gokhale
 date: 2024-09-24
-summary: This dissertation examines how fishers and fisheries institutions manage economic risk, focusing on income diversification, subsidies, and global market linkages in shaping fishers’ livelihoods and fish stock sustainability.
+summary: "This dissertation examines how fishers and fisheries institutions manage economic risk, focusing on income diversification, subsidies, and global market linkages in shaping fishers’ livelihoods and fish stock sustainability."
 
 image:
   filename: featured.jpg
