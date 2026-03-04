@@ -2,7 +2,7 @@
 title: The Impact of Marine Protected Areas on Well-being
 authors:
   - Sanmitra Gokhale
-date: 2024
+date: 2024-01-01
 summary: MSc thesis examining the effects of Marine Protected Areas on coastal communities in Indonesia.
 
 image:

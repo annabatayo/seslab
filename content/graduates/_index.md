@@ -3,15 +3,20 @@ title: Graduates
 type: landing
 
 sections:
-  - block: hero
+  - block: collection
     content:
-      title: Graduates
+      title: PhD Graduates
+      page_type: project
+      order: desc
+    design:
+      view: compact
 
   - block: collection
     content:
-      title: Dissertations
-      page_type: graduates
-      count: 0
+      title: Completed Projects
+      page_type: project
+      filters:
+        tag: Completed
       order: desc
     design:
       view: compact
