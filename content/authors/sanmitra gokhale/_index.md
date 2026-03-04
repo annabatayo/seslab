@@ -20,16 +20,16 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on economic risk management in fisheries, including income diversification, fisheries governance, and the impacts of global seafood markets on fishing communities.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Artificial Intelligence
+#  - Computational Linguistics
+#  - Information Retrieval
 
-education:
-  courses:
-    - course: PhD in Environmental Economics
-      institution: Wageningen University
-      year: 2024
+#education:
+#  courses:
+#    - course: PhD in Environmental Economics
+#      institution: Wageningen University
+#      year: 2024
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
