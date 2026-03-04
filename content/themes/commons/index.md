@@ -13,13 +13,13 @@ sections:
     content:
       title: Behavior in the Commons
       text: |
-        {{< figure 
-	src="featured.jpg" 
-	alt="Behavior in the Commons" 
-	caption="Illustrated by Anna Lou Abatayo"
-	class="mx-auto d-block"
-	width="70%"
-	>}}
+        {{< figure
+          src="featured.jpg"
+          alt="Behavior in the Commons"
+          caption="Illustrated by Anna Lou Abatayo"
+          class="mx-auto d-block"
+          width="70%"
+        >}}
 
         <div style="text-align: justify;">
         Many environmental challenges involve the management of shared natural resources, 
