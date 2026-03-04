@@ -1,5 +1,5 @@
 ---
-title: Maite den Butter Wins Best Master's Thesis in Economics and Business
+title: Maite den Butter Wins Best Master's Thesis in Economics
 date: 2025-12-20
 image:
   focal_point: 'top'
@@ -17,4 +17,6 @@ Using household survey data and empirical analysis, Maite examined how communiti
 
 The thesis was supervised by **Anna Lou Abatayo** and **Andries Richter** at Wageningen University. The study contributes to ongoing research at the group on marine systems, conservation policy, and the social-ecological dynamics of resource management. By examining both environmental and social outcomes, the work illustrates the importance of integrating economic and behavioral perspectives into marine conservation research.
 
-We warmly congratulate Maite on this well-deserved recognition. Her achievement reflects the high quality of student research within the Environmental Economics and Natural Resources group. We look forward to seeing how her work continues to contribute to research on sustainable ocean governance and marine conservation.
+We warmly congratulate Maite on this well-deserved recognition. Her achievement reflects the high quality of student research within the university. We look forward to seeing how her work continues to contribute to research on sustainable ocean governance and marine conservation.
+
+More information is available at <a href="https://www.remagine-award.nl/">REMagine Award</a>.
