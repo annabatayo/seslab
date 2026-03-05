@@ -10,7 +10,7 @@ main:
   - name: Team
     url: people
     weight: 20
-  - name: Graduates
+  - name: Alumni
     url: graduates
     weight: 30
   - name: Visitors

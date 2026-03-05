@@ -20,16 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include food security, agriculture, and socio-economic dynamics in marine and coastal resource management.
 
-interests:
-  - Food Security
-  - Agricultural Development
-  - Natural Resource Management
+#interests:
+#  - Food Security
+#  - Agricultural Development
+#  - Natural Resource Management
 
-education:
-  courses:
-    - course: PhD Agricultural Economics
-      institution: Oklahoma State University
-      year: 2007
+#education:
+#  courses:
+#    - course: PhD Agricultural Economics
+#      institution: Oklahoma State University
+#      year: 2007
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
@@ -41,16 +41,16 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:f.pakiding@unipa.ac.id'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:f.pakiding@unipa.ac.id'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=qTpr1EQAAAAJ&hl=en
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=qTpr1EQAAAAJ&hl=en
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
@@ -61,10 +61,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+#email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
