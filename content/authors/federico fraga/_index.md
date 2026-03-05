@@ -7,35 +7,35 @@ first_name: Federico
 last_name: Fraga
 
 # Is this the primary user of the site?
-superuser: false
+#superuser: false
 
 # Role/position
-role: PhD Candidate
+#role: PhD Candidate
 
 # Organizations/Affiliations
-organizations:
-  - name: Wageningen University
-    url: ''
+#organizations:
+#  - name: Wageningen University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the economics of Marine Protected Areas, combining network analysis, bioeconomic modelling, and stakeholder perspectives to inform effective and equitable management.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Artificial Intelligence
+#  - Computational Linguistics
+#  - Information Retrieval
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: Masters in Economics
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: Masters in Economics
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,9 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhDs and Postdocs
+  - PhD Candidates
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD candidate with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. My research explores how economic insights can support the effective, equitable, and inclusive design and management of Marine Protected Areas (MPAs) in Uruguay. I study the governance dynamics of the Isla de Lobos MPA using social-ecological network analysis, apply bioeconomic modelling to assess the viability of fisheries targeting the invasive gastropod Rapana venosa, and examine stakeholder perspectives on invasive species management and potential private-sector contributions to mitigation efforts. My research is supervised by Andries Richter and Francisco Alpizar (WUR) and Omar Defeo (Universidad de la República, Uruguay).

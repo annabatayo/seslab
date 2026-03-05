@@ -7,12 +7,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: People
+  - name: Team
     url: people
     weight: 20
   - name: Graduates
     url: graduates
-    weight: 40  
+    weight: 30
+  - name: Visitors
+    url: visitors
+    weight: 40      
   - name: News
     url: post
     weight: 50
