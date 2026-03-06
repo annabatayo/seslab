@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is on marine social-ecological systems, and policy evaluation in these systems for both social and ecological outcomes.
 
 #interests:
 #  - Artificial Intelligence
@@ -72,6 +72,4 @@ user_groups:
   - Postdoctoral Fellows
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Postdoctoral researcher with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. I am supervised by Anna Abatayo and Andries Richter. My research aims to inform and evaluate environmental impacts of human activities and policies in coupled social-ecological systems. In my current MSCA funded postdoc project SEATRADE I evaluate the impact of Seafood trade on food security and fishing intensity.  
