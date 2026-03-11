@@ -10,7 +10,7 @@ last_name: Duan
 superuser: false
 
 # Role/position
-role: PhD Candidate
+#role: PhD Candidate
 
 # Organizations/Affiliations
 #organizations:
