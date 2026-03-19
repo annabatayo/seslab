@@ -10,7 +10,7 @@ last_name: Laplana
 superuser: false
 
 # Role/position
-#role: Postdoc
+#role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 #organizations:
@@ -18,36 +18,39 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the intersection between Environmental and Development Economics. I have studied topics of climate change, rural sustainability, conflict, migration, religion, and inequality.
 
 #interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+#  - Environmental Economics
+#  - Development Economics
+#  - Applied Microeconometrics
 
 #education:
 #  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
+#    - course: PhD in Economics (defense in mid-2026)
+#      institution: Tilburg University
+#      year: 2026 (expected)
+#    - course: Research Master in Economics
+#      institution: Tilburg University
+#      year: 2020
+#    - course: MA in Economics
+#      institution: Fundação Getúlio Vargas – FGV-Rio
+#      year: 2018
+#    - course: BSc in Industrial Engineering
+#      institution: Pontifícia Universidade Católica – PUC-Rio
 #      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'antonio.laplana@wur.nl'
 #  - icon: twitter
 #    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+#    link: https://x.com/antoniolaplana
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -72,6 +75,4 @@ user_groups:
   - Postdoctoral Fellows
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Postdoctoral Researcher at the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. My supervisors are Francisco Alpízar and Anna Abatayo. My position is part of the GALILEO project, which promotes agroforestry as leverage to improve agricultural, household, and climate change adaptation in Sub-Saharan Africa. Specifically, I conduct the project’s impact evaluation on sustainable income generation and household resilience.
