@@ -1,7 +1,7 @@
 ---
 title: Drivers of Marine Protection (MPADrivers)
 
-summary: MPADrivers examines the drivers of marine protected area placement in the Coral Triangle.
+summary: MPADrivers is an NWO project that examines the drivers of marine protected area placement in the Coral Triangle.
 
 image:
   filename: featured.jpg
