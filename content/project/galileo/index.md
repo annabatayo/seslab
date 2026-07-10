@@ -5,7 +5,7 @@ summary: GALILEO is a Horizon Europe project advancing climate-resilient agrofor
 
 image:
   filename: featured.jpg
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
   caption: "Photo credit: QPlan"
 
