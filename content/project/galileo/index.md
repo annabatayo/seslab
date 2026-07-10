@@ -1,7 +1,7 @@
 ---
-title: Agroforestry for a Resilient Africa (GALILEO)
+title: Strengthening Rural Livelihoods and Resilience to Climate Change in Africa (GALILEO)
 
-summary: "Strengthening rural livelihoods and resilience to climate change in Africa - innovative agroforestry integrating people, trees, crops and livestock" (GALILEO) is a Horizon Europe project advancing climate-resilient agroforestry to strengthen rural livelihoods and biodiversity across Sub-Saharan Africa.
+summary: GALILEO is a Horizon Europe project advancing climate-resilient agroforestry to strengthen rural livelihoods and biodiversity across Sub-Saharan Africa.
 
 image:
   filename: featured.jpg
