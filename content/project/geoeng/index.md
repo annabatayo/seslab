@@ -9,7 +9,7 @@ image:
   preview_only: false
   caption: "Photo credit: Anna Lou Abatayo"
 
-date: 2022-01-01
+date: 2023-08-01
 
 tags:
   - Behavior in the Commons
