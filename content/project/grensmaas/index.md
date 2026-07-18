@@ -7,9 +7,8 @@ tags:
   - Ecosystem Restoration
   - Windfarms
   - North Sea
-  - Completed
+#  - Completed
 
 authors:
-  - Anna Lou Abatayo
   - Andries Richter
 ---
