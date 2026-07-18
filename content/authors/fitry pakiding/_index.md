@@ -10,7 +10,7 @@ last_name: Pakiding
 superuser: false
 
 # Role/position
-role: Senior Research Fellow
+#role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include food security, agriculture, and socio-economic dynamics in marine and coastal resource management.
+#bio: My research interests include food security, agriculture, and socio-economic dynamics in marine and coastal resource management.
 
 #interests:
 #  - Food Security
@@ -72,4 +72,5 @@ user_groups:
   - Visitors
 ---
 
-I am a faculty member in the Department of Agricultural and Agricultural Technology at Papua State University (Universitas Negeri Papua, UNIPA). My work focuses on agriculture, food security, and natural resource management in Papua and West Papua. My research aims to inform policies and development programs that improve food security and livelihoods in the region, including work on community agricultural development and socio-economic conditions in Marine Protected Areas in the Bird’s Head Seascape. I collaborate with local and national governments, as well as international organizations, to generate evidence that supports sustainable resource management and community well-being. 
+EconSES welcomed Fitryanti Pakiding from the University of Papua (UNIPA), Indonesia, as a visiting researcher through the INREEF (Interdisciplinary Program to Build the Resilience of Marine Protected Areas in Tourism Destinations) project. During her visit, she collaborated with EconSES researchers and other INREEF partners on strengthening the sustainable management and governance of marine protected areas in Indonesia. Her expertise in agricultural and resource economics, combined with her extensive knowledge of local communities in eastern Indonesia, contributed to interdisciplinary discussions on fisheries, conservation, and the resilience of coastal socio-ecological systems. The visit also fostered knowledge exchange between WUR, Indonesian partner universities, and INREEF's network of researchers and practitioners.
+

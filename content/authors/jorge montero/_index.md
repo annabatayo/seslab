@@ -10,7 +10,7 @@ last_name: Montero Mestre
 superuser: false
 
 # Role/position
-role: Postdoc
+#role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on fisheries dynamics and environmental resource management using data-driven approaches.
+# bio: My research focuses on fisheries dynamics and environmental resource management using data-driven approaches.
 
 #interests:
 #  - Environmental Economics
@@ -71,4 +71,5 @@ user_groups:
   - Visitors
 ---
 
-I am a Postdoctoral Researcher in the Department of Economics at <a href="https://economia.uniandes.edu.co/">Universidad de los Andes</a> and a Research Associate affiliated with the <a href="https://www.uni-giessen.de/de/fbz/zentren/zeu/sdgnexus">SDG Nexus Network</a> at Justus Liebig University Giessen, Germany. My research agenda lies at the intersection of applied environmental economics and the governance of natural resources in both developed and developing country contexts. I am particularly interested in examining how incentives, institutions, and regulatory mechanisms influence the sustainable use of common-pool resources such as fisheries, forests, and protected areas. For more information, visit my <a href="https://jorgephd.github.io/jlmontero.github.io/">personal website</a>.
+EconSES welcomed Dr. Jorge Montero Mestre from the Universidad de los Andes (Colombia) as a visiting researcher. During his visit, he collaborated with EconSES researchers on topics at the intersection of environmental and resource economics, political economy, and applied econometrics, with a particular focus on the governance of common-pool resources, conservation policies, and fisheries. His stay strengthened the long-standing collaboration between ENR and the Universidad de los Andes and provided opportunities for discussions with staff and students on the application of causal inference, remote sensing, and geospatial methods to environmental policy evaluation.
+

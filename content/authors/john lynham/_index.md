@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #  - Environmental / Resource Economics
@@ -79,4 +79,5 @@ user_groups:
   - Visitors
 ---
 
-I am a Professor of Economics at the University of Hawai'i. In the past, I have held Visiting Professor positions at Udayana University in Indonesia, IÉSEG School of Management in Paris, Stanford University in California, and Trinity College in Ireland. My area of specialty is the Ocean Economy. For more information, visit my <a href="https://www2.hawaii.edu/~lynham/">personal website</a>. 
+In May–June 2022, EconSES welcomed Prof. John Lynham (University of Hawaiʻi at Mānoa) as a WIMEK Research Fellow for a three-week research visit. During his stay, Prof. Lynham advanced ongoing collaborations with EconSES on environmental and resource economics, including research on socio-ecological systems, protected areas, and fisheries, while also exploring new opportunities for interdisciplinary collaboration. He shared his expertise through masterclasses for PhD students, including a public lecture titled "Pirates, Prices, & Photos: Three Papers on Fisheries in Indonesia", and engaged with students and researchers in discussions on causal inference methods and fisheries economics.
+
