@@ -12,7 +12,7 @@ sections:
       subtitle:
       text: |
         <div class="welcome-image">
-          <img src="/media/welcome.jpg"
+          <img src="/media/icon.png"
                alt="Economics of Social-Ecological Systems">
         </div>
     design:
