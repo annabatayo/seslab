@@ -24,17 +24,28 @@ sections:
   # Introduction text section
   - block: markdown
     content:
-      title: Economics of Social-Ecological Systems
+      title: Welcome!
       subtitle:
       text: |
-        The **Economics of Social-Ecological Systems** is one of the four
+        The **Economics of Social-Ecological Systems** (EconSES) is one of the four
         research themes of the **Environmental Economics and Natural Resource
-        Group** at **Wageningen University and Research**.
+        Group** (ENR) at **Wageningen University and Research**.
 
-        At the **Economics of Social-Ecological Systems Lab**, we investigate
-        the economic drivers of social-ecological systems. Our research examines
-        how policies, institutions, and trade-offs influence sustainable
-        resource management, ecosystem resilience, and socio-economic outcomes.
+        We study how people, institutions, markets, and ecosystems interact to shape 
+        the sustainable use of natural resources. Our research combines economic 
+        theory, empirical analysis, and interdisciplinary collaboration to better 
+        understand the complex dynamics of social-ecological systems.
+
+        Our work addresses questions such as:
+        - How can environmental policies promote both ecological sustainability and human well-being?
+        - What economic incentives drive resource use and conservation?
+        - How do institutions, governance, and collective action influence environmental outcomes?
+        - How can societies balance competing objectives, such as food production, biodiversity conservation, climate resilience, and equitable development?
+
+        By working across disciplines and with partners from academia, government, NGOs, and practice, we aim to generate knowledge that supports evidence-based decision-making and contributes to more resilient and sustainable social-ecological systems.
+
+        Whether you are a researcher, student, policymaker, or practitioner, we invite you to explore our projects, publications, and opportunities for collaboration.
+
     design:
       columns: '1'
       css_class: welcome-description
