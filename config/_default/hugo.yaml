@@ -6,10 +6,6 @@
 title: EconSES # Website name
 baseURL: 'https://econses.nl/' # Website URL
 
-services:
-  googleAnalytics:
-    id: G-2Y7T0NCT30
-
 ############################
 ## LANGUAGE
 ############################
