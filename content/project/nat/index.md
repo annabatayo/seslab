@@ -5,7 +5,7 @@ date: 2022-01-01
 
 tags:
   - Ecosystem Restoration
-  - Ongoing
+#  - Ongoing
 
 authors:
   - Andries Richter
