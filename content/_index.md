@@ -28,8 +28,8 @@ sections:
       subtitle:
       text: |
         The **Economics of Social-Ecological Systems** (EconSES) is one of the four
-        research themes of the **Environmental Economics and Natural Resource
-        Group** (ENR) at **Wageningen University and Research**.
+        research themes of the <a href="https://www.wur.nl/en/chair-groups/section-economics/environmental-economics-and-natural-resources">**Environmental Economics and Natural Resource
+        Group**</a> (ENR) at **Wageningen University and Research**.
 
         We study how people, institutions, markets, and ecosystems interact to shape 
         the sustainable use of natural resources. Our research combines economic 
