@@ -18,24 +18,25 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the economics of social–ecological systems, using theoretical models, causal empirical methods, and economic experiments to understand how institutions and human behavior affect the sustainable management of natural resources.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Economics
+  - Natural Resource Economics
+  - Fisheries Economics
+  - Behavioral Economics
 
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Wageningen University and Research
+      year: 2011
+    - course: MSc Economics and Business
+      institution: University of Groningen
+      year: 2006
+    - course: BSc Economics and Business
+      institution: University of Groningen
+      year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +45,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:andries.richter@wur.nl'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=Si3b4iQAAAAJ&hl=en&oi=ao
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +73,4 @@ user_groups:
   - Core Team
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Andries Richter is an Associate Professor at Environmental Economics and Natural Resources Group at Wageningen University & Research. His research focuses on the economics of social–ecological systems, with particular emphasis on how institutions, human behavior, and social norms shape the sustainable management of natural resources. He leads the Economics of Social–Ecological Systems Lab, where he combines theoretical modelling, causal empirical analysis, and economic experiments to study the interactions between society and ecosystems, with applications in environmental governance, marine systems, and renewable resource management.

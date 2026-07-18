@@ -10,7 +10,7 @@ last_name: Abatayo
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is on ex-ante and ex-post evaluation of environmental policies through economic experiments and impact evalaution methods.
+bio: My research is on ex-ante and ex-post evaluation of environmental policies through economic experiments and impact evaluation methods.
 
 interests:
   - Environmental Economics
