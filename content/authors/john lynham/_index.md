@@ -10,7 +10,7 @@ last_name: Lynham
 superuser: false
 
 # Role/position
-role: Professor
+#role: Professor
 
 # Organizations/Affiliations
 organizations:
