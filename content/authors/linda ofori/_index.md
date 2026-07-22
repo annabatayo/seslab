@@ -10,7 +10,7 @@ last_name: Ofori
 superuser: true
 
 # Role/position
-role: PhD Candidate
+#role: PhD Candidate
 
 # Organizations/Affiliations
 #organizations:
