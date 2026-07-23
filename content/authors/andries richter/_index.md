@@ -20,23 +20,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the economics of social–ecological systems, using theoretical models, causal empirical methods, and economic experiments to understand how institutions and human behavior affect the sustainable management of natural resources.
 
-interests:
-  - Environmental Economics
-  - Natural Resource Economics
-  - Fisheries Economics
-  - Behavioral Economics
+#interests:
+#  - Environmental Economics
+#  - Natural Resource Economics
+#  - Fisheries Economics
+#  - Behavioral Economics
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Wageningen University and Research
-      year: 2011
-    - course: MSc Economics and Business
-      institution: University of Groningen
-      year: 2006
-    - course: BSc Economics and Business
-      institution: University of Groningen
-      year: 2003
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Wageningen University and Research
+#      year: 2011
+#    - course: MSc Economics and Business
+#      institution: University of Groningen
+#      year: 2006
+#    - course: BSc Economics and Business
+#      institution: University of Groningen
+#      year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

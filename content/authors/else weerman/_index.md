@@ -3,7 +3,7 @@
 title: Else Weerman
 
 # Full Name (for SEO)
-first_name: Else
+first_name: Else Ellen Mabel
 last_name: Weerman
 
 # Is this the primary user of the site?
@@ -18,42 +18,40 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Environmental Economics
+#  - Ocean Economics
+#  - Experimental Economics
+#  - Labor Economics
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: Research Master in Economics and Business
+#      institution: University of Groningen
+#      year: 2025
+#    - course: BSc Economics and Business Economics
+#      institution: University of Groningen
+#      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:else.weerman@wur.nl''
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +70,4 @@ user_groups:
   - PhDs and Postdocs
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student at the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research, supervised by Andries Richter and Anna Lou Abatayo. My PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands, where expanding renewable energy is increasingly overlapping with traditional fishing grounds. I’m not only focusing on the loss of fishing areas, but also on issues such as construction disruptions, increased vessel traffic, and spillover effects from restricted and protected zones. I’m especially interested in how these impacts differ across small-scale fishers and industrial fleets, as well as effects on coastal communities.

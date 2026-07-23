@@ -20,24 +20,24 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research is on ex-ante and ex-post evaluation of environmental policies through economic experiments and impact evaluation methods.
 
-interests:
-  - Environmental Economics
-  - Natural Resource Economics
-  - Experimental Economics
-  - Behavioral Economics
-  - Impact Evaluation
+#interests:
+#  - Environmental Economics
+#  - Natural Resource Economics
+#  - Experimental Economics
+#  - Behavioral Economics
+#  - Impact Evaluation
 
-education:
-  courses:
-    - course: PhD in Economics
-      institution: University of Hawai'i at Mānoa
-      year: 2015
-    - course: MA in Economics
-      institution: University of the Philippines - Diliman
-      year: 2009
-    - course: BSc in Management Engineering
-      institution: Ateneo de Manila University
-      year: 2005
+#education:
+#  courses:
+#    - course: PhD in Economics
+#      institution: University of Hawai'i at Mānoa
+#      year: 2015
+#    - course: MA in Economics
+#      institution: University of the Philippines - Diliman
+#      year: 2009
+#    - course: BSc in Management Engineering
+#      institution: Ateneo de Manila University
+#      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
