@@ -10,12 +10,12 @@ last_name: Weerman
 superuser: true
 
 # Role/position
-role: PhD Candidate
+#role: PhD Candidate
 
 # Organizations/Affiliations
-organizations:
-  - name: Wageningen University
-    url: ''
+#organizations:
+#  - name: Wageningen University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands.
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhDs and Postdocs
+  - PhD Candidates
 ---
 
 I am a PhD student at the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research, supervised by Andries Richter and Anna Lou Abatayo. My PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands, where expanding renewable energy is increasingly overlapping with traditional fishing grounds. I’m not only focusing on the loss of fishing areas, but also on issues such as construction disruptions, increased vessel traffic, and spillover effects from restricted and protected zones. I’m especially interested in how these impacts differ across small-scale fishers and industrial fleets, as well as effects on coastal communities.
