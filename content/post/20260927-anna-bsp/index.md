@@ -1,5 +1,5 @@
 ---
-title: 'EconSES brings experimental economics training to UP Los Baños'
+title: 'EconSES brings experimental economics training to the Univeristy of the Philippines Los Baños'
 summary: 'Dr. Anna Lou Abatayo led a three-day workshop, "From Experimental Design to Data Analysis in Economics," at the University of the Philippines Los Baños under the DOST-PCAARRD Balik Scientist Program.'
 authors:
   - anna-lou-abatayo
@@ -7,7 +7,7 @@ tags:
   - Experimental Economics
   - Capacity Building
   - Philippines
-date: '2026-09-27T00:00:00Z'
+date: '2026-09-26T00:00:00Z'
 image:
   caption: 'Participants of the workshop "From Experimental Design to Data Analysis in Economics" at UP Los Baños.'
   focal_point: 'Center'
