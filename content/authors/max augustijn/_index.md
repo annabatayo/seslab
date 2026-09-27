@@ -3,7 +3,7 @@
 title: Max Augustijn
 
 # Full Name (for SEO)
-first_name: Max
+first_name: Max Frederik Wicher
 last_name: Augustijn
 
 # Is this the primary user of the site?
