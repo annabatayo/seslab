@@ -1,7 +1,9 @@
 ---
 title: 'Maite den Butter wins the REMagine Award for best master’s thesis in economics'
 summary: 'Maite den Butter received a REMagine Award for the best master’s thesis in economics and business, in the category "Broad Perspectives on Prosperity", for her thesis on how marine protected areas affect the well-being of coastal communities in Indonesia.'
-profile: anna-lou-abatayo
+profile:
+  - anna-lou-abatayo
+  - andries-richter
 tags:
   - Awards
   - Marine Conservation
