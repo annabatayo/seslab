@@ -1,0 +1,32 @@
+{{/* Author profile box — local override of the HugoBlox (blox-bootstrap v5) partial.
+     Adds: `profile: <author-slug>` in a page's front matter shows that author's
+     profile card at the bottom of the page, without listing them under `authors:`.
+     `profile: false` still hides the box, as in the original theme. */}}
+
+{{/* Don't show author box on normal pages or if author box disabled. */}}
+{{ if ne .Type "page" | and (not (or (eq site.Params.profile false) (eq .Params.profile false))) }}
+
+{{ $profile := .Params.profile }}
+{{ if and $profile (eq (printf "%T" $profile) "string") }}
+  {{/* Show the profile named in `profile:` (e.g. anna-lou-abatayo). */}}
+  {{ $author_page := site.GetPage (printf "/authors/%s" (urlize $profile)) }}
+  {{ with $author_page }}
+    {{ partial "page_author_card" (dict "author_page" .) }}
+  {{ else }}
+    {{ warnf "page_author: no author profile found for profile %q on %s" $profile $.File.Path }}
+  {{ end }}
+
+{{/* Display superuser if superuser exists and page authors are not explicitly specified. */}}
+{{ else if and (not .Params.authors) (.Scratch.Get "superuser_username") }}
+  {{ $author_page := site.GetPage (printf "/%s/%s" "authors" (.Scratch.Get "superuser_username")) }}
+  {{ partial "page_author_card" (dict "author_page" $author_page) }}
+
+{{/* Otherwise, display each listed author that has a profile. */}}
+{{ else if .Params.authors }}
+  {{ $taxonomy := "authors" }}
+  {{ range $author_obj := (.GetTerms $taxonomy) }}
+    {{ partial "page_author_card" (dict "author_page" $author_obj.Page) }}
+  {{ end }}
+{{ end }}
+
+{{end}}{{/* Show profile block */}}
