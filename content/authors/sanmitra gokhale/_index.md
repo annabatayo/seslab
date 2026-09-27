@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on economic risk management in fisheries, including income diversification, fisheries governance, and the impacts of global seafood markets on fishing communities.
+bio: Sanmitra's research focuses on economic risk management in fisheries, including income diversification, fisheries governance, and the impacts of global seafood markets on fishing communities.
 
 #interests:
 #  - Artificial Intelligence
@@ -71,5 +71,4 @@ highlight_name: true
 user_groups:
   - Alumni
 ---
-
-My research focuses on the economic risks faced by fishers and fisheries systems, and how these risks can be managed through individual strategies and governance mechanisms. I examine how income diversification, both within and outside the fishing sector, influences the financial stability of fishing households. I am also interested in how fisheries policies, such as subsidies and management institutions, affect fish stock sustainability and the economic resilience of fishing communities. More broadly, my work explores how global seafood markets and trade create linkages across geographically distant fisheries, shaping both ecological outcomes and the livelihoods of fishers.
+Sanmitra's research focuses on the economic risks faced by fishers and fisheries systems, and on how these risks can be managed through individual strategies and governance mechanisms. Sanmitra examines how income diversification, both within and outside the fishing sector, influences the financial stability of fishing households, and how fisheries policies, such as subsidies and management institutions, affect fish stock sustainability and the economic resilience of fishing communities. More broadly, Sanmitra's work explores how global seafood markets and trade create linkages across geographically distant fisheries, shaping both ecological outcomes and the livelihoods of fishers.

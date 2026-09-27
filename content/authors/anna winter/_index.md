@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Anna's research focuses on how climate change and fishing pressure shape the productivity, collapse and recovery of fish stocks, and on precautionary, science-based fisheries management.
 
 #interests:
 #  - Artificial Intelligence
@@ -71,7 +71,4 @@ highlight_name: true
 user_groups:
   - Alumni
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Anna's research focuses on how fish stocks respond to the combined pressures of fishing and climate change, and on what this means for fisheries management. Using Atlantic cod as a case study, Anna studies how rising ocean temperatures, temperature variability and ocean acidification affect recruitment and population dynamics, with particular attention to nonlinear dynamics such as Allee effects, which can make stock collapse hard to reverse. Anna's work also examines the role of science in fisheries policy, comparing how Canada and the European Union apply the precautionary approach, and identifying the policy and institutional constraints that stand in the way of sustainable, precautionary management.
