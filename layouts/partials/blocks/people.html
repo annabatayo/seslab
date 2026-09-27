@@ -50,10 +50,29 @@
 
     {{/* Sort */}}
     {{ $sort_by := $block.content.sort_by | default "Params.last_name" }}
-    {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
     {{ $sort_ascending := $block.content.sort_ascending | default true }}
     {{ $sort_order := cond $sort_ascending "asc" "desc" }}
-    {{ $query = sort $query $sort_by $sort_order }}
+    {{ if eq $sort_by "graduation" }}
+      {{/* Local addition: sort by the date of each person's dissertation page
+           (content/graduates/). People without a dissertation go last. */}}
+      {{ $items := slice }}
+      {{ range $query }}
+        {{ $slug := urlize (path.Base .File.Dir) }}
+        {{ $when := -1 }}
+        {{ if eq $sort_order "asc" }}{{ $when = 9999999999 }}{{ end }}
+        {{ range $dissertations }}
+          {{ $d := . }}
+          {{ range .Params.authors }}{{ if eq (urlize .) $slug }}{{ $when = $d.Date.Unix }}{{ end }}{{ end }}
+        {{ end }}
+        {{ $items = $items | append (dict "person" . "when" $when "name" .Params.last_name) }}
+      {{ end }}
+      {{ $sorted := slice }}
+      {{ range sort $items "when" $sort_order }}{{ $sorted = $sorted | append .person }}{{ end }}
+      {{ $query = $sorted }}
+    {{ else }}
+      {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
+      {{ $query = sort $query $sort_by $sort_order }}
+    {{ end }}
 
     {{if $query | and (gt (len $block.content.user_groups) 1) }}
       <div class="col-md-12">

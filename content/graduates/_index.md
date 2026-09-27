@@ -11,8 +11,9 @@ sections:
       # matching page in content/graduates/<name>/ (featured.jpg).
       user_groups:
         - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
+      # Sort by year of graduation (date of the dissertation page), newest first.
+      sort_by: graduation
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true
