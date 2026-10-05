@@ -1,0 +1,136 @@
+{{/* Hugo Blox: People — local override of the blox-bootstrap v5 block.
+     Adds `design.show_dissertation: true`: below each person's card, show the cover of
+     their dissertation (a page in content/graduates/ listing them under `authors:`),
+     linked to the dissertation page, with the year. Off by default, so the Team page
+     is unchanged. */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $show_social := $block.design.show_social | default false }}
+{{ $show_interests := $block.design.show_interests | default true }}
+{{ $show_organizations := $block.design.show_organizations | default false }}
+{{ $show_role := $block.design.show_role | default true }}
+{{ $show_dissertation := $block.design.show_dissertation | default false }}
+{{ $dissertations := where site.RegularPages "Section" "graduates" }}
+
+{{ if $show_dissertation }}
+<style>
+  .people-dissertation { margin-top: .9rem; }
+  .people-dissertation a { display: inline-block; text-decoration: none; }
+  .people-dissertation img {
+    display: block; margin: 0 auto; width: 120px; height: auto;
+    border-radius: 4px; box-shadow: 0 4px 14px rgba(0,0,0,.18);
+    transition: transform 150ms ease-in-out, box-shadow 150ms ease-in-out;
+  }
+  .people-dissertation a:hover img { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,.24); }
+  .people-dissertation .people-dissertation-caption {
+    display: block; margin-top: .5rem; font-size: .8rem; color: rgba(0,0,0,.54);
+  }
+  .dark .people-dissertation .people-dissertation-caption { color: rgba(255,255,255,.6); }
+</style>
+{{ end }}
+
+<div class="row justify-content-center people-widget">
+  {{ with $block.content.title }}
+    <div class="section-heading col-12 mb-3 text-center">
+      <h1 class="mb-0">{{ . | markdownify | emojify }}</h1>
+      {{ with $block.content.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
+    </div>
+  {{ end }}
+
+  {{ with $block.content.text }}
+    <div class="col-md-12">
+      {{ . | emojify | $page.RenderString }}
+    </div>
+  {{ end }}
+
+  {{ range $block.content.user_groups }}
+    {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+
+    {{/* Sort */}}
+    {{ $sort_by := $block.content.sort_by | default "Params.last_name" }}
+    {{ $sort_ascending := $block.content.sort_ascending | default true }}
+    {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+    {{ if eq $sort_by "graduation" }}
+      {{/* Local addition: sort by the date of each person's dissertation page
+           (content/graduates/). People without a dissertation go last. */}}
+      {{ $items := slice }}
+      {{ range $query }}
+        {{ $slug := urlize (path.Base .File.Dir) }}
+        {{ $when := -1 }}
+        {{ if eq $sort_order "asc" }}{{ $when = 9999999999 }}{{ end }}
+        {{ range $dissertations }}
+          {{ $d := . }}
+          {{ range .Params.authors }}{{ if eq (urlize .) $slug }}{{ $when = $d.Date.Unix }}{{ end }}{{ end }}
+        {{ end }}
+        {{ $items = $items | append (dict "person" . "when" $when "name" .Params.last_name) }}
+      {{ end }}
+      {{ $sorted := slice }}
+      {{ range sort $items "when" $sort_order }}{{ $sorted = $sorted | append .person }}{{ end }}
+      {{ $query = $sorted }}
+    {{ else }}
+      {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
+      {{ $query = sort $query $sort_by $sort_order }}
+    {{ end }}
+
+    {{if $query | and (gt (len $block.content.user_groups) 1) }}
+      <div class="col-md-12">
+        <h2 class="mb-4">{{ . | markdownify }}</h2>
+      </div>
+    {{end}}
+
+    {{ range $query }}
+      {{ $person := . }}
+      {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+      {{/* Get link to user's profile page. */}}
+      {{ $link := "" }}
+      {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
+        {{ $link = .RelPermalink }}
+      {{ end }}
+      <div class="col-12 col-sm-auto people-person">
+        {{ $src := "" }}
+        {{ if site.Params.features.avatar.gravatar }}
+          {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+        {{ else if $avatar }}
+          {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+          {{ $src = $avatar_image.RelPermalink }}
+        {{ end }}
+        {{ if $src }}
+          {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+          {{with $link}}<a href="{{.}}">{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+        {{ end }}
+
+        <div class="portrait-title">
+          <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+          {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
+          {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+          {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+          {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+
+          {{ if $show_dissertation }}
+            {{/* Match dissertations by author name, e.g. "Sanmitra Gokhale" ↔ authors/sanmitra gokhale */}}
+            {{ $slug := urlize (path.Base $person.File.Dir) }}
+            {{ range $dissertations }}
+              {{ $d := . }}
+              {{ $match := false }}
+              {{ range .Params.authors }}{{ if eq (urlize .) $slug }}{{ $match = true }}{{ end }}{{ end }}
+              {{ if $match }}
+                {{ $cover := ($d.Resources.ByType "image").GetMatch "*featured*" }}
+                <div class="people-dissertation">
+                  <a href="{{ $d.RelPermalink }}" title="{{ $d.Title }}">
+                    {{ with $cover }}
+                      {{ $img := .Resize "240x" }}
+                      <img src="{{ $img.RelPermalink }}" width="{{ div $img.Width 2 }}" height="{{ div $img.Height 2 }}" loading="lazy" alt="Dissertation cover: {{ $d.Title }}">
+                    {{ end }}
+                    <span class="people-dissertation-caption">PhD dissertation, {{ $d.Date.Format "2006" }}</span>
+                  </a>
+                </div>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+</div>

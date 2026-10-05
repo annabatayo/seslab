@@ -1,22 +1,25 @@
 ---
-title: Maite den Butter Wins Best Master's Thesis in Economics
-date: 2025-12-20
+title: 'Maite den Butter wins the REMagine Award for best master’s thesis in economics'
+summary: 'Maite den Butter received a REMagine Award for the best master’s thesis in economics and business, in the category "Broad Perspectives on Prosperity", for her thesis on how marine protected areas affect the well-being of coastal communities in Indonesia.'
+profile:
+  - anna-lou-abatayo
+  - andries-richter
+tags:
+  - Awards
+  - Marine Conservation
+  - Indonesia
+date: '2025-12-20T00:00:00Z'
 image:
-  focal_point: 'top'
-authors:
-  - Anna Lou Abatayo
+  caption: 'Maite den Butter (centre) with her thesis supervisors, Dr. Andries Richter (left) and Dr. Anna Lou Abatayo (right).'
+  focal_point: 'Center'
 ---
 
-Congratulations to Maite den Butter for winning the Dutch REMagine Awards for the best master's thesis in economics and business under the category "Broad Perspectives on Prosperity".
+Maite den Butter, a graduate of the MSc Economics of Sustainability (MME-D) programme at Wageningen University, has won a Dutch REMagine Award for the best master’s thesis in economics and business. The REMagine Awards reward ideas for a fairer and more inclusive future, and Maite’s thesis won in the category "Broad Perspectives on Prosperity".
 
-<!--more-->
+Marine protected areas (MPAs) are among the most widely used tools for conserving marine biodiversity. Much of the existing research focuses on their ecological benefits, but far less is known about how they affect the people who live alongside them. Maite’s thesis addresses this gap by examining how the establishment of MPAs shapes the livelihoods and well-being of coastal communities in Indonesia.
 
-Maite den Butter, a graduate of the MSc Economics of Sustainability (MME-D) program at Wageningen University, received the REMagine Award for her thesis examining the effects of Marine Protected Area (MPA) establishment on the well-being of coastal communities in Indonesia. While much of the existing literature focuses on the ecological benefits of MPAs, her research explores their broader social and economic impacts. In particular, the study investigates how conservation policies can shape livelihoods and welfare outcomes for people living near protected marine ecosystems.
+Using household survey data, Maite examined how communities living near long-established MPAs in Papua and West Papua fared after conservation interventions were introduced. Her analysis looked at livelihoods, local economic opportunities and overall community welfare, contributing to a growing body of work on the human dimensions of marine conservation.
 
-Using household survey data and empirical analysis, Maite examined how communities living near long-established MPAs in Papua and West Papua experience changes in well-being following conservation interventions. Her research highlights how marine conservation policies can influence livelihoods, local economic opportunities, and overall community welfare. The findings contribute to a growing body of work that seeks to better understand the human dimensions of marine conservation.
+The thesis was supervised by Dr. Anna Lou Abatayo and Dr. Andries Richter. It connects directly to EconSES research on marine systems, conservation policy and the social-ecological dynamics of resource management, where bringing together environmental and social outcomes, and economic and behavioural perspectives, is central to understanding how conservation works in practice.
 
-The thesis was supervised by **Anna Lou Abatayo** and **Andries Richter** at Wageningen University. The study contributes to ongoing research at the group on marine systems, conservation policy, and the social-ecological dynamics of resource management. By examining both environmental and social outcomes, the work illustrates the importance of integrating economic and behavioral perspectives into marine conservation research.
-
-We warmly congratulate Maite on this well-deserved recognition. Her achievement reflects the high quality of student research within the university. We look forward to seeing how her work continues to contribute to research on sustainable ocean governance and marine conservation.
-
-More information is available at <a href="https://www.remagine-award.nl/">REMagine Award</a>.
+EconSES congratulates Maite on this recognition of her work. We look forward to seeing how she continues to contribute to research on sustainable ocean governance and marine conservation. More information about the award is available on the [REMagine Award website](https://www.remagine-award.nl/).

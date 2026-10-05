@@ -1,17 +1,22 @@
 ---
-title: Graduates
+title: Alumni
 type: landing
 
 sections:
-  - block: collection
+  - block: people
     content:
-      title: Recent PhD Graduates
-      page_type: graduates
-      count: 3
-      order: desc
-      archive:
-        link: /graduates/all/
-        text: See more graduates →
+      title: Alumni
+      # Everyone whose profile (content/authors/<name>/_index.md) lists
+      # `user_groups: - Alumni`. Their dissertation cover is taken from the
+      # matching page in content/graduates/<name>/ (featured.jpg).
+      user_groups:
+        - Alumni
+      # Sort by year of graduation (date of the dissertation page), newest first.
+      sort_by: graduation
+      sort_ascending: false
     design:
-      view: compact
+      show_interests: false
+      show_role: true
+      show_social: true
+      show_dissertation: true
 ---

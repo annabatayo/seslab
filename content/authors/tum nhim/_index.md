@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on collective action in social-ecological systems, particularly how institutions, cooperation, and resource scarcity shape the governance of common-pool resources.
+bio: Tum's research focuses on collective action in social-ecological systems, particularly how institutions, cooperation, and resource scarcity shape the governance of common-pool resources.
 
 #interests:
 #  - Artificial Intelligence
@@ -71,5 +71,4 @@ highlight_name: true
 user_groups:
   - Alumni
 ---
-
-My research focuses on how communities manage shared natural resources in the face of environmental change. I study small-scale irrigation systems as social-ecological systems, examining how resource scarcity, inequality, and institutional arrangements influence cooperation among resource users. Using a combination of agent-based modeling and field experiments, I investigate how governance mechanisms, social norms, and social capital shape collective action in managing common-pool resources and investing in shared infrastructure. Through this work, I aim to better understand how institutions can support sustainable and resilient resource management under climate change.
+Tum's research focuses on how communities manage shared natural resources in the face of environmental change. Tum studies small-scale irrigation systems as social-ecological systems, examining how resource scarcity, inequality, and institutional arrangements influence cooperation among resource users. Using a combination of agent-based modeling and field experiments, Tum investigates how governance mechanisms, social norms, and social capital shape collective action in managing common-pool resources and investing in shared infrastructure. The aim of this work is to better understand how institutions can support sustainable and resilient resource management under climate change.
