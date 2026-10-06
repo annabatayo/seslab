@@ -1,38 +1,27 @@
 ---
-title: 'Navigating trade-offs between offshore energy, nature and fisheries at the North Sea Days'
-summary: 'Andries Richter and Else Weerman organised an interactive session at the North Sea Days on how to decide about offshore wind, nature restoration and fisheries under deep uncertainty.'
-profile: andries-richter
+title: 'Navigating offshore energy, nature, and fisheries: trade-offs and transition scenarios'
+summary: 'At the North Sea Days, a session convened by Andries Richter, Else Weerman, and partners set out to make the trade-offs between offshore wind, nature, and fisheries explicit.'
+profile: 
+  - andries-richter
+  - else-weerman
 tags:
   - North Sea
   - Offshore Wind
   - Fisheries
-  - Ocean Accounting
   - NO-REGRETS
 date: '2026-10-05T00:00:00Z'
 image:
-  caption: 'The organisers of the session in front of the opening slide at the North Sea Days.'
+  caption: 'The NO-REGRETS project teamed up with the DIPLACED project and DMEC to explore a shared sea with diverse perspectives '
   focal_point: 'Center'
+  preview_only: true
 ---
 
-On 1 October 2026, the session *Navigating offshore energy, nature, and fisheries: trade-offs and transition scenarios* took place at the North Sea Days at Deltapark Neeltje Jans. It was organised by Andries Richter and Else Weerman (WUR) together with partners from Wageningen Social & Economic Research, DMEC, CBS, Stichting De Noordzee, NIOZ and Breda University of Applied Sciences, and drew on insights from the NO-REGRETS and DISPLACE projects.
+As the North Sea gets more crowded, decisions about offshore wind, nature restoration, and fisheries are becoming more contested, often under deep uncertainty about climate change and a shifting geopolitical landscape. Too often the trade-offs stay implicit, which makes it hard to see who benefits, who bears the costs, and where thresholds may be crossed. At the North Sea Days, we convened a session to make these trade-offs explicit, together with partners from Wageningen Social and Economic Research, DMEC, Central Bureau of Statistics, Stichting De Noordzee, NIOZ, and Breda University of Applied Sciences, and drawing on the NO-REGRETS and DISPLACE projects.
 
-The North Sea has always been dynamic, but surprises are becoming more frequent: geopolitical crises, climate change and early warning signs around the AMOC. Our sharpest quantitative tools, such as bioeconomic models and ecosystem accounting, rest on fixed assumptions while the ground is shifting. The session asked how policy makers, industry, NGOs and scientists can prepare for futures that are much harder to predict.
+![Wind turbines at Neeltje Jans against a cloudy sky.](turbines.jpg "Neeltje Jans was a perfect venue to host a session on offshore wind.")
 
-After short pitches, participants spread over four tables, each built around one dilemma:
+Around four tables, participants worked through one dilemma each, and three ideas stood out. Thresholds are not only ecological: a limit that is safe for the whole system may already be the end of the road for a single sector, so the question becomes who sets the limit, and for whom. Spatial change also comes with a price tag: for fisheries, compensation can mean more than money, from new gear to repurposing the fleet toward seaweed farming or services around wind farms, with government stimulating rather than forcing the shift. And the way forward has to be effective, not just agreeable, because a pathway everyone can live with is not automatically one that works.
 
-- How can thresholds be operationalized in the North Sea?
-- Whose values count in ocean accounting?
-- How should fisheries be compensated for spatial change?
-- How do we choose between agreeable and effective transition pathways?
+![The conveners of the session standing in front of the opening slide.](featured.jpg "A shared sea with diverse perspectives: the conveners of the session.")
 
-![The poster of the thresholds table, organised in the columns system, hybrid/other and sector.](thresholds-table.jpg "The thresholds table sorted its ideas into system, hybrid/other and sector perspectives.")
-
-Each table used a 1-2-All format (individual reflection, pairs, whole table) and captured its main points on a poster. Participants then walked around to see what had emerged elsewhere. A few examples of what the tables came up with:
-
-- **Thresholds:** ecosystem thresholds and tipping points should be defined at the level of the (eco)system, but need to be translated into what they mean for individual sectors, since some sectors may hit their own limit long before the system does. Open questions on the poster: who determines the limits, are thresholds fixed, and what is the effect of new actors?
-- **Fisheries and spatial change:** ideas ranged from innovation in fishing gear and fuel or social compensation to helping the fleet repurpose, for example towards seaweed farming or services around offshore wind farms, with government stimulating rather than forcing the transition.
-- **Agreeable versus effective pathways:** this table asked how effectiveness can be determined at all, and how it relates to what is politically feasible.
-
-![The poster of the fisheries table with ideas on compensation and repurposing.](fisheries-table.jpg "Ideas from the table on compensating fisheries for spatial change.")
-
-The input is meant to feed into research on the North Sea transition and into the discussion on the Programma Noordzee 2028–2033. The organisers thank all participants, the table hosts and the North Sea Days team.
+Making such trade-offs explicit is a first step toward strategies that hold up across uncertain futures. The input feeds into our research and into the discussion on the Programma Noordzee 2028–2033. 
