@@ -1,11 +1,11 @@
 ---
-title: "Behavioural economics for understanding recreational fishers and fisheries"
+title: "Coordinating on good and bad outcomes in threshold games – Evidence from an artefactual field experiment in Cambodia"
 authors:
 - Esther Schuch
 - Tum Nhim
 - Andries Richter
 date: "2025-06-01T00:00:00Z"
-#doi: "10.1086/724286"
+#doi: "10.1016/j.ecolecon.2025.108547"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-01T00:00:00Z"
