@@ -28,23 +28,30 @@ sections:
       subtitle:
       text: |
         The **Economics of Social-Ecological Systems** (EconSES) is one of the four
-        research themes of the <a href="https://www.wur.nl/en/chair-groups/section-economics/environmental-economics-and-natural-resources">**Environmental Economics and Natural Resource
-        Group**</a> (ENR) at **Wageningen University and Research**.
+        research themes of the <a href="https://www.wur.nl/en/chair-groups/section-economics/environmental-economics-and-natural-resources">**Environmental Economics and Natural Resources
+        Group**</a> (ENR) at **Wageningen University & Research**.
 
-        We study how people, institutions, markets, and ecosystems interact to shape 
-        the sustainable use of natural resources. Our research combines economic 
-        theory, empirical analysis, and interdisciplinary collaboration to better 
-        understand the complex dynamics of social-ecological systems.
+        Across the globe, social-ecological systems such as marine environments, forests, semi-arid
+        grazing lands and fisheries are under increasing pressure from climate change, overexploitation
+        and other stressors. At the same time, there are notable success stories, where resources are
+        managed sustainably or where conservation has led to ecosystem restoration. Understanding why
+        some systems are sustainably managed while others are trapped in a state of overexploitation is
+        at the heart of our work. Human behaviour and nature shape each other, and whether a system is
+        used sustainably depends on the institutions that couple them: formal institutions such as
+        protected areas and property regimes, and informal arrangements such as communal social norms.
+        Ecological tipping points make these traps hard to escape: once a system has shifted into a
+        degraded state, it may stay there. Yet social tipping points can also open windows of
+        opportunity for institutional change, pushing a system towards recovery.
 
-        Our work addresses questions such as:
-        - How can environmental policies promote both ecological sustainability and human well-being?
-        - What economic incentives drive resource use and conservation?
-        - How do institutions, governance, and collective action influence environmental outcomes?
-        - How can societies balance competing objectives, such as food production, biodiversity conservation, climate resilience, and equitable development?
+        Our research combines economic theory, empirical analysis and interdisciplinary collaboration to
+        understand the complex dynamics of social-ecological systems, addressing questions such as:
 
-        By working across disciplines and with partners from academia, government, NGOs, and practice, we aim to generate knowledge that supports evidence-based decision-making and contributes to more resilient and sustainable social-ecological systems.
+        - Which institutions and policies enable sustainable resource use and ecosystem restoration?
+        - What are the costs and benefits of alternative policy options and pathways, and who are the winners and losers?
+        - How can we balance resilient ecosystems, livelihoods and income within a safe and just operating space?
+        - When does better information, for example about the value of ecosystems, lead to better decisions?
 
-        Whether you are a researcher, student, policymaker, or practitioner, we invite you to explore our projects, publications, and opportunities for collaboration.
+        Curious about our work? Dive into our projects and publications, and please reach out to us.
 
     design:
       columns: '1'
