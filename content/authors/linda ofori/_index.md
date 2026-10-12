@@ -71,7 +71,7 @@ user_groups:
 
 Linda Ofori is a PhD candidate with the Environmental Economics and Natural 
 Resources Group, Section Economics, Wageningen University and Research 
-(supervised by dr. Andries Richter, prof. dr. Ewout Frankema). 
+(supervised by Andries Richter and Ewout Frankema). 
 Her research aims to explore drivers of institutional change in fisheries by 
 testing long-term relationships underlying dynamics of social-ecological systems 
 using econometrics and economic experiments.

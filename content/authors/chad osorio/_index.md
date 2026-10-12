@@ -72,6 +72,4 @@ user_groups:
   - PhD Candidates
 ---
 
-Chad Patrick Osorio is a PhD researcher in Environmental Economics and Law at Wageningen University & Research. His research examines how legal and economic instruments can strengthen wildlife trade regulation and biodiversity governance. In particular, he evaluates the intended and unintended effects of environmental policies using legal analysis and data-driven methods. His broader work explores illegal wildlife trade, environmental criminal justice, artificial intelligence for biodiversity conservation, and the integration of cultural and community perspectives into environmental governance.
-
-His doctoral research at WUR is supervised by Dr. Andries Richter, Dr. Anna Lou Abatayo, and Prof. Nadia Bernaz.
+Chad Patrick Osorio is a PhD researcher in Environmental Economics and Law at Wageningen University & Research. His research examines how legal and economic instruments can strengthen wildlife trade regulation and biodiversity governance. In particular, he evaluates the intended and unintended effects of environmental policies using legal analysis and data-driven methods. His broader work explores illegal wildlife trade, environmental criminal justice, artificial intelligence for biodiversity conservation, and the integration of cultural and community perspectives into environmental governance. His research is supervised by Andries Richter, Anna Lou Abatayo, and Nadia Bernaz.

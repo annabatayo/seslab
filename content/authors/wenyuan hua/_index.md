@@ -78,4 +78,4 @@ user_groups:
   - PhD Candidates
 ---
 
-Wenyuan Hua is a PhD candidate in the Environmental Economics and Natural Resources Group, supervised by Dr. Xueqin Zhu and Dr. Anna Abatayo. His focus is empirical microeconomics that integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. His current research is centered on empirically evaluating the impact of sanitation facility adoption across rural China.
+Wenyuan Hua is a PhD candidate in the Environmental Economics and Natural Resources Group, supervised by Xueqin Zhu and Anna Lou Abatayo. His focus is empirical microeconomics that integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. His current research is centered on empirically evaluating the impact of sanitation facility adoption across rural China.
