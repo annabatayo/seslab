@@ -1,6 +1,6 @@
 ---
 title: 'INREEF: Resilience of the Richest Reefs'
-summary: 'An interdisciplinary INREF programme on building the resilience of marine protected areas in tourism destinations, in Indonesia and the Dutch Caribbean.'
+summary: 'An interdisciplinary INREF program on building the resilience of marine protected areas in tourism destinations, in Indonesia and the Dutch Caribbean.'
 authors:
   - Andries Richter
   - Titan Setyawan
@@ -21,9 +21,9 @@ image:
 
 Tourism is a double-edged sword for marine protected areas (MPAs). Visitors put pressure on coral reefs through
 crowding, sewage and pollution, yet tourism revenues can also pay for conservation and support local
-livelihoods. **INREEF**, an interdisciplinary research and education programme funded by the Wageningen
+livelihoods. **INREEF**, an interdisciplinary research and education program funded by the Wageningen
 Interdisciplinary Research and Education Fund (INREF), brings together Indonesian, Dutch and Caribbean
-researchers, conservation organisations and policymakers to understand how fluctuating tourism, together with
+researchers, conservation organizations and policymakers to understand how fluctuating tourism, together with
 climate change, fishing and pollution, affects the health of coral reefs, the livelihoods and cohesion of coastal
 communities, and their capacity to govern their reefs. Its aim is to develop tools to assess and monitor the
 resilience of MPAs, and to design governance measures that protect coral reefs in an era of changing tourism and
@@ -42,5 +42,5 @@ the Dutch Caribbean.
 *INREEF researchers and local partners discussing during fieldwork at the mangroves of Nusa Lembongan, Bali,
 March 2024.*
 
-More about the programme, the full team and its publications is available on the
+More about the program, the full team and its publications is available on the
 [INREEF website](https://inreef.org/).

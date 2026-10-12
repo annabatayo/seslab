@@ -18,7 +18,7 @@ superuser: true
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is on noncompliance and sustainable fisheries management using econometrics and economic experiments.
+bio: Linda's research is on noncompliance and sustainable fisheries management using econometrics and economic experiments.
 
 #interests:
 #  - Environmental Economics

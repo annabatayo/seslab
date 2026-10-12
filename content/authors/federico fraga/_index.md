@@ -18,7 +18,7 @@ last_name: Fraga
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the economics of Marine Protected Areas, combining network analysis, bioeconomic modelling, and stakeholder perspectives to inform effective and equitable management.
+bio: Federico's research focuses on the economics of Marine Protected Areas, combining network analysis, bioeconomic modeling, and stakeholder perspectives to inform effective and equitable management.
 
 #interests:
 #  - Artificial Intelligence
@@ -72,4 +72,4 @@ user_groups:
   - PhD Candidates
 ---
 
-I am a PhD candidate with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. My research explores how economic insights can support the effective, equitable, and inclusive design and management of Marine Protected Areas (MPAs) in Uruguay. I study the governance dynamics of the Isla de Lobos MPA using social-ecological network analysis, apply bioeconomic modelling to assess the viability of fisheries targeting the invasive gastropod Rapana venosa, and examine stakeholder perspectives on invasive species management and potential private-sector contributions to mitigation efforts. My research is supervised by Andries Richter and Francisco Alpizar (WUR) and Omar Defeo (Universidad de la República, Uruguay).
+Federico Fraga is a PhD candidate with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. His research explores how economic insights can support the effective, equitable, and inclusive design and management of Marine Protected Areas (MPAs) in Uruguay. He studies the governance dynamics of the Isla de Lobos MPA using social-ecological network analysis, applies bioeconomic modeling to assess the viability of fisheries targeting the invasive gastropod Rapana venosa, and examines stakeholder perspectives on invasive species management and potential private-sector contributions to mitigation efforts. His research is supervised by Andries Richter and Francisco Alpizar (WUR) and Omar Defeo (Universidad de la República, Uruguay).

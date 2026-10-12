@@ -18,7 +18,7 @@ superuser: true
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the economic benefit evaluation of environmental policies and explores how to optimize existing environmental policies from the perspective of individual.
+bio: Qingyang's research focuses on the economic benefit evaluation of environmental policies and explores how to optimize existing environmental policies from the perspective of individuals.
 
 #interests:
 #  - Environmental Economics
@@ -71,4 +71,4 @@ user_groups:
   - PhD Candidates
 ---
 
-I am a PhD candidate in the Environmental Economics and Natural Resources Group, Section Economics, at Wageningen University and Research. I am supervised by Francisco Alpizar, Anna Lou Abatayo and Chen Weishan . My research focuses on the source separation of municipal solid waste. In light of the limited effectiveness of waste sorting in China, where citizen behavior tends to relapse significantly in the absence of strict manual supervision, my work investigates the underlying behavioral mechanisms of waste sorting. It aims to identify effective behavioral interventions to enhance the performance of urban waste segregation in practice, thereby contributing to improved community living environments and the advancement of the urban circular economy from both academic and practical perspectives.
+Qingyang Hong is a PhD candidate in the Environmental Economics and Natural Resources Group, Section Economics, at Wageningen University and Research, supervised by Francisco Alpizar, Anna Lou Abatayo and Chen Weishan. His research focuses on the source separation of municipal solid waste. In light of the limited effectiveness of waste sorting in China, where citizen behavior tends to relapse significantly in the absence of strict manual supervision, his work investigates the underlying behavioral mechanisms of waste sorting. It aims to identify effective behavioral interventions to enhance the performance of urban waste segregation in practice, thereby contributing to improved community living environments and the advancement of the urban circular economy from both academic and practical perspectives.

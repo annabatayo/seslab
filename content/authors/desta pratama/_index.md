@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research explores how institutional roles and blue finance structures influence fund allocation, conservation performance, and sustainable financing mechanisms for Marine Protected Areas (MPAs) in Indonesia.
+bio: Desta's research explores how institutional roles and blue finance structures influence fund allocation, conservation performance, and sustainable financing mechanisms for Marine Protected Areas (MPAs) in Indonesia.
 
 #interests:
 #  - Environmental Economics
@@ -72,4 +72,4 @@ user_groups:
   - PhD Candidates
 ---
 
-I am a PhD candidate with the Environmental Economics and Natural Resources Group and the Environmental Policy Group, Section Economics, Wageningen University & Research. My research explores how institutional roles and decision-making dynamics shape the allocation, effectiveness, and sustainability of funding for Marine Protected Areas (MPAs) in Indonesia. I map the national architecture and characteristics of blue finance flows, evaluate the impact of funding on marine conservation and socio-economic outcomes, investigate how stakeholder interactions drive resource allocation decisions, and examine institutional adaptations to build sustainable financing mechanisms for MPAs. My research is supervised by Andries Richter, Machiel Lamers, and Lisa Becking (WUR).
+C. Desta Pratama is a PhD candidate with the Environmental Economics and Natural Resources Group and the Environmental Policy Group, Section Economics, Wageningen University & Research. His research explores how institutional roles and decision-making dynamics shape the allocation, effectiveness, and sustainability of funding for Marine Protected Areas (MPAs) in Indonesia. He maps the national architecture and characteristics of blue finance flows, evaluates the impact of funding on marine conservation and socio-economic outcomes, investigates how stakeholder interactions drive resource allocation decisions, and examines institutional adaptations to build sustainable financing mechanisms for MPAs. His research is supervised by Andries Richter, Machiel Lamers, and Lisa Becking (WUR).

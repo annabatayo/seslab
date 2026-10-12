@@ -18,7 +18,7 @@ superuser: true
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands.
+bio: Else's PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands.
 
 #interests:
 #  - Environmental Economics
@@ -70,4 +70,4 @@ user_groups:
   - PhD Candidates
 ---
 
-I am a PhD student at the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research, supervised by Andries Richter and Anna Lou Abatayo. My PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands, where expanding renewable energy is increasingly overlapping with traditional fishing grounds. I’m not only focusing on the loss of fishing areas, but also on issues such as construction disruptions, increased vessel traffic, and spillover effects from restricted and protected zones. I’m especially interested in how these impacts differ across small-scale fishers and industrial fleets, as well as effects on coastal communities.
+Else Weerman is a PhD student at the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research, supervised by Andries Richter and Anna Lou Abatayo. Her PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands, where expanding renewable energy is increasingly overlapping with traditional fishing grounds. She is not only focusing on the loss of fishing areas, but also on issues such as construction disruptions, increased vessel traffic, and spillover effects from restricted and protected zones. She is especially interested in how these impacts differ across small-scale fishers and industrial fleets, as well as effects on coastal communities.

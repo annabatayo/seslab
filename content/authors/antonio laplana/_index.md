@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the intersection between Environmental and Development Economics. I have studied topics of climate change, rural sustainability, conflict, migration, religion, and inequality.
+bio: Antonio's research focuses on the intersection between Environmental and Development Economics. He has studied topics of climate change, rural sustainability, conflict, migration, religion, and inequality.
 
 #interests:
 #  - Environmental Economics
@@ -75,4 +75,4 @@ user_groups:
   - Postdoctoral Fellows
 ---
 
-I am a Postdoctoral Researcher at the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. My supervisors are Francisco Alpízar and Anna Abatayo. My position is part of the GALILEO project, which promotes agroforestry as leverage to improve agricultural, household, and climate change adaptation in Sub-Saharan Africa. Specifically, I conduct the project’s impact evaluation on sustainable income generation and household resilience.
+Antonio Laplana is a Postdoctoral Researcher at the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. His supervisors are Francisco Alpízar and Anna Abatayo. His position is part of the GALILEO project, which promotes agroforestry as leverage to improve agricultural, household, and climate change adaptation in Sub-Saharan Africa. Specifically, he conducts the project’s impact evaluation on sustainable income generation and household resilience.

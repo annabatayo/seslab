@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the economics of social–ecological systems, using theoretical models, causal empirical methods, and economic experiments to understand how institutions and human behavior affect the sustainable management of natural resources.
+bio: Andries's research focuses on the economics of social–ecological systems, using theoretical models, causal empirical methods, and economic experiments to understand how institutions and human behavior affect the sustainable management of natural resources.
 
 #interests:
 #  - Environmental Economics
@@ -73,4 +73,4 @@ user_groups:
   - Core Team
 ---
 
-Andries Richter is an Associate Professor at Environmental Economics and Natural Resources Group at Wageningen University & Research. His research focuses on the economics of social–ecological systems, with particular emphasis on how institutions, human behavior, and social norms shape the sustainable management of natural resources. He leads the Economics of Social–Ecological Systems Lab, where he combines theoretical modelling, causal empirical analysis, and economic experiments to study the interactions between society and ecosystems, with applications in environmental governance, marine systems, and renewable resource management.
+Andries Richter is an Associate Professor at Environmental Economics and Natural Resources Group at Wageningen University & Research. His research focuses on the economics of social–ecological systems, with particular emphasis on how institutions, human behavior, and social norms shape the sustainable management of natural resources. He leads the Economics of Social–Ecological Systems Lab, where he combines theoretical modeling, causal empirical analysis, and economic experiments to study the interactions between society and ecosystems, with applications in environmental governance, marine systems, and renewable resource management.

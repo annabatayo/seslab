@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research explores human–environment interactions in groundwater governance, with a focus on policy discourse, smallholder perceptions of groundwater depletion, and water-saving behaviors.
+bio: Muying's research explores human–environment interactions in groundwater governance, with a focus on policy discourse, smallholder perceptions of groundwater depletion, and water-saving behaviors.
 
 #interests:
 #  - Social-Ecological Systems
@@ -72,4 +72,4 @@ user_groups:
   - PhD Candidates
 ---
 
-I am a PhD candidate with the Environmental Economics and Natural Resources (ENR) Group, Section Economics, Wageningen University and Research. My supervisors are Andries Richter from ENR group, Wopke van der Werf from the Crop Systems Analysis Group and Nico Heerink from the Development Economics Group. My research focuses on agricultural groundwater sustainability in China. I study groundwater policy documents and policy discourse through text-mining and content analysis methods, as well as how smallholder farmers perceive groundwater depletion and respond through water-saving practices. My research aims to contribute to a better understanding of the social and policy dimensions of sustainable groundwater management.
+Muying Duan is a PhD candidate with the Environmental Economics and Natural Resources (ENR) Group, Section Economics, Wageningen University and Research, supervised by Andries Richter from the ENR group, Wopke van der Werf from the Crop Systems Analysis Group and Nico Heerink from the Development Economics Group. Her research focuses on agricultural groundwater sustainability in China, studying groundwater policy documents and policy discourse through text-mining and content analysis methods, as well as how smallholder farmers perceive groundwater depletion and respond through water-saving practices. Her research aims to contribute to a better understanding of the social and policy dimensions of sustainable groundwater management.

@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is on marine social-ecological systems, and policy evaluation in these systems for both social and ecological outcomes.
+bio: Maartje's research is on marine social-ecological systems, and policy evaluation in these systems for both social and ecological outcomes.
 
 #interests:
 #  - Natural Resource Management
@@ -72,4 +72,4 @@ user_groups:
   - Postdoctoral Fellows
 ---
 
-I am a Postdoctoral researcher with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. I am supervised by Anna Abatayo and Andries Richter. My research aims to inform and evaluate environmental impacts of human activities and policies in coupled social-ecological systems. In my current MSCA funded postdoc project SEATRADE I evaluate the impact of Seafood trade on food security and fishing intensity.  
+Maartje Oostdijk is a Postdoctoral researcher with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research. She is supervised by Anna Abatayo and Andries Richter. Her research aims to inform and evaluate environmental impacts of human activities and policies in coupled social-ecological systems. In her current MSCA-funded postdoc project SEATRADE, she evaluates the impact of seafood trade on food security and fishing intensity.

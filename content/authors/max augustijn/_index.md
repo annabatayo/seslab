@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research examines how economic, legal, and social factors shape nature-based transitions for climate-resilient landscapes, drawing on an interdisciplinary background in psychology, business, design, and spatial planning
+bio: Max's research examines how economic, legal, and social factors shape nature-based transitions for climate-resilient landscapes, drawing on an interdisciplinary background in psychology, business, design, and spatial planning.
 
 #interests:
 #  - Environmental Economics
@@ -75,20 +75,8 @@ user_groups:
   - PhD Candidates
 ---
 
-I am an interdisciplinary researcher with an academic background in psychology, 
-business administration and design. Before starting my PhD at Wageningen 
-University and Research, I worked for 5.5 years as design researcher and 
-project leader at the landscape/urban/architectural design office FABRICations. 
-In this position I worked primarily on the larger scales (i.e., neighborhood, 
-landscape, city, region, country), providing spatial planning and design 
-consultancy to governments (i.e., ministries, provinces, municipalities) to 
-realize transitions in agriculture, climate, energy and biodiversity.
+Max Augustijn is an interdisciplinary researcher with an academic background in psychology, business administration and design. Before starting his PhD at Wageningen University and Research, he worked for 5.5 years as design researcher and project leader at the landscape/urban/architectural design office FABRICations. In this position he worked primarily on the larger scales (i.e., neighborhood, landscape, city, region, country), providing spatial planning and design consultancy to governments (i.e., ministries, provinces, municipalities) to realize transitions in agriculture, climate, energy and biodiversity.
 
-With my PhD in Nature-Based Approaches for Climate-Robust, Sustainable and 
-Productive Sandy-Soil Landscapes, I focus on the economic, legal and social 
-factors that play a role in the drought transition of sandy-soil regions. 
-My PhD is coordinated by the WIMEK graduate school and I am supervised 
-by Andries Richter and Edwin Alblas from the ENR and Law groups. 
-My PhD is part of the 'NAT' project and is funded by the NWO.
+With his PhD in Nature-Based Approaches for Climate-Robust, Sustainable and Productive Sandy-Soil Landscapes, he focuses on the economic, legal and social factors that play a role in the drought transition of sandy-soil regions. His PhD is coordinated by the WIMEK graduate school and he is supervised by Andries Richter and Edwin Alblas from the ENR and Law groups. His PhD is part of the 'NAT' project and is funded by the NWO.
 
-Besides my work I have always been very active in music and graphic design.
+Besides his work, he has always been very active in music and graphic design.

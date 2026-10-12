@@ -18,7 +18,7 @@ superuser: true
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research lies in empirical microeconomics, where I combine economic theory with rigorous econometric methods to address policy-relevant questions.
+bio: Wenyuan's research lies in empirical microeconomics, combining economic theory with rigorous econometric methods to address policy-relevant questions.
 
 #interests:
 #  - Agricultural Economics
@@ -78,4 +78,4 @@ user_groups:
   - PhD Candidates
 ---
 
-I am a PhD candidate in the Environmental Economics and Natural Resources Group. My supervisors are Dr. Xueqin Zhu and Dr. Anna Abatayo. My focus is empirical microeconomics that integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. My current research is centered on empirically evaluating the impact of sanitation facility adoption across rural China.
+Wenyuan Hua is a PhD candidate in the Environmental Economics and Natural Resources Group, supervised by Dr. Xueqin Zhu and Dr. Anna Abatayo. His focus is empirical microeconomics that integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. His current research is centered on empirically evaluating the impact of sanitation facility adoption across rural China.

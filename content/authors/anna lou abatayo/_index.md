@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is on ex-ante and ex-post evaluation of environmental policies through economic experiments and impact evaluation methods.
+bio: Anna's research is on ex-ante and ex-post evaluation of environmental policies through economic experiments and impact evaluation methods.
 
 #interests:
 #  - Environmental Economics
@@ -74,6 +74,4 @@ user_groups:
   - Core Team
 ---
 
-I am an Associate Professor with the <a href="https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Environmental-Economics-and-Natural-Resources-Group.htm">Environmental Economics and Natural Resources Group</a>, Section Economics, <a href="https://www.wur.nl/en.htm">Wageningen University and Research</a>. My research aims to inform and evaluate environmental policies, both formal and informal arrangements, in two ways: (1) by testing policies in a controlled way prior to implementation (main methodology: economic experiments) and (2) by evaluating the effects of existing policies (main methodology: impact evaluation). For more information, visit my <a href="https://annabatayo.com">personal website</a>. 
-
-
+Anna Lou Abatayo is an Associate Professor with the <a href="https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Environmental-Economics-and-Natural-Resources-Group.htm">Environmental Economics and Natural Resources Group</a>, Section Economics, <a href="https://www.wur.nl/en.htm">Wageningen University and Research</a>. Her research aims to inform and evaluate environmental policies, both formal and informal arrangements, in two ways: (1) by testing policies in a controlled way prior to implementation (main methodology: economic experiments) and (2) by evaluating the effects of existing policies (main methodology: impact evaluation). For more information, visit her <a href="https://annabatayo.com">personal website</a>.

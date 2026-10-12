@@ -36,7 +36,7 @@ sections:
         and other stressors. At the same time, there are notable success stories, where resources are
         managed sustainably or where conservation has led to ecosystem restoration. Understanding why
         some systems are sustainably managed while others are trapped in a state of overexploitation is
-        at the heart of our work. Human behaviour and nature shape each other, and whether a system is
+        at the heart of our work. Human behavior and nature shape each other, and whether a system is
         used sustainably depends on the institutions that couple them: formal institutions such as
         protected areas and property regimes, and informal arrangements such as communal social norms.
         Ecological tipping points make these traps hard to escape: once a system has shifted into a

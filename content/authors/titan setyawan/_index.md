@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Titan's research uses System Dynamics Models to understand how tourism systems within Marine Protected Areas behave and evolve over time.
 
 #interests:
 #  - Artificial Intelligence
@@ -72,18 +72,4 @@ user_groups:
   - PhD Candidates
 ---
 
-I am a PhD candidate with Environmental Economics and Natural Resources Group, 
-Section Economics, Wageningen University and Research, supervised by Andries 
-Richter (Environmental Economics and Natural Resources Group), Machiel Lamers 
-(Environmental Policy Group), and Ingrid van de Leemput (Aquatic Ecology and 
-Water Quality Management). My research uses System Dynamics Models to unbox 
-the complexity of tourism systems within Marine Protected Areas (MPAs), 
-aiming to understand how these systems behave and evolve over time.
-I explore this complexity through two main lenses. First, I look at the 
-investment-development mechanism, examining how investor behavior drives the 
-development of tourism within MPAs. Second, I explore tourism modalities and 
-their impacts, looking at how different forms of tourism shape outcomes within 
-these systems. While the model I develop is general, it will be simulated using 
-data from two cases in Indonesia: Raja Ampat MPA and Nusa Penida MPA. Through 
-this approach, I hope to offer a clearer picture of how MPA tourism systems 
-work, supporting more informed and adaptive management of these areas.
+Titan Setyawan is a PhD candidate with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research, supervised by Andries Richter (Environmental Economics and Natural Resources Group), Machiel Lamers (Environmental Policy Group), and Ingrid van de Leemput (Aquatic Ecology and Water Quality Management). His research uses System Dynamics Models to unbox the complexity of tourism systems within Marine Protected Areas (MPAs), aiming to understand how these systems behave and evolve over time. He explores this complexity through two main lenses. The first is the investment-development mechanism, examining how investor behavior drives the development of tourism within MPAs. The second is tourism modalities and their impacts, looking at how different forms of tourism shape outcomes within these systems. While the model he is developing is general, it will be simulated using data from two cases in Indonesia: Raja Ampat MPA and Nusa Penida MPA. Through this approach, he hopes to offer a clearer picture of how MPA tourism systems work, supporting more informed and adaptive management of these areas.

@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on evaluating the impact of the adoption of agroforestry innovations on household welfare. 
+bio: Milkah's research focuses on evaluating the impact of the adoption of agroforestry innovations on household welfare.
 
 #interests:
 #   -Impact Evaluation
@@ -75,5 +75,4 @@ user_groups:
   - PhD Candidates
 ---
 
-I am a PhD student with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research, under the supervision of Francisco Alpizar and Anna Lou Abatayo. My research focuses on understanding and evaluating the adoption of agroforestry innovations and their effects on household welfare. This will be done in two ways: (1) using experiments to test the impact of innovations under controlled conditions before implementation (main methodology: experimentation) and (2) assessing the effects of agroforestry practices and interventions on households’ socio-economic outcomes (main methodology: impact evaluation).
-
+Milkah Wanjiku Maina is a PhD student with the Environmental Economics and Natural Resources Group, Section Economics, Wageningen University and Research, under the supervision of Francisco Alpizar and Anna Lou Abatayo. Her research focuses on understanding and evaluating the adoption of agroforestry innovations and their effects on household welfare. This will be done in two ways: (1) using experiments to test the impact of innovations under controlled conditions before implementation (main methodology: experimentation) and (2) assessing the effects of agroforestry practices and interventions on households’ socio-economic outcomes (main methodology: impact evaluation).
