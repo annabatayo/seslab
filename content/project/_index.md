@@ -4,6 +4,7 @@ type: landing
 
 sections:
   - block: collection
+    id: ongoing
     content:
       title: Ongoing Projects
       page_type: project
@@ -14,6 +15,7 @@ sections:
       view: compact
 
   - block: collection
+    id: completed
     content:
       title: Completed Projects
       page_type: project
