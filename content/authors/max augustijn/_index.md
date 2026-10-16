@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Max Augustijn
+title: Max Frederik Wicher Augustijn
 
 # Full Name (for SEO)
 first_name: Max Frederik Wicher

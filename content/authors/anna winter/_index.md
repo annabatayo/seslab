@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anna Winter
+title: Anna-Marie Winter
 
 # Full Name (for SEO)
 first_name: Anna
