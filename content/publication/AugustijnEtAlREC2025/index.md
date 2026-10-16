@@ -1,7 +1,7 @@
 ---
 title: "Catching up with drought: law and policy responses in the Netherlands"
 authors:
-- Max Frederik Wicher Augustijn
+- Max Augustijn
 - Andries Richter
 - Edwin Alblas
 date: "2025-08-20T00:00:00Z"

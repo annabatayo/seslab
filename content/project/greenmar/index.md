@@ -3,7 +3,7 @@ title: 'GreenMAR: Green Growth Based on Marine Resources'
 summary: 'Can marine economies grow while ecosystems keep functioning? A Nordic network on the ecological and socio-economic limits to blue growth.'
 authors:
   - Andries Richter
-  - Anna-Marie Winter
+  - Anna Winter
 tags:
   - Marine Systems
   - Completed

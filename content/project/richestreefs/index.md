@@ -4,7 +4,7 @@ summary: 'An interdisciplinary INREF program on building the resilience of marin
 authors:
   - Andries Richter
   - Titan Setyawan
-  - Intan Adhi
+  - Intan Putri
   - Yustina Wambrauw
   - Desta Pratama
   - Tobia de Scisciolo

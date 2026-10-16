@@ -1,7 +1,7 @@
 ---
 title: 'Implications of Allee effects for fisheries management in a changing climate: Evidence from Atlantic cod'
 authors:
-  - Anna-Marie Winter
+  - Anna Winter
   - Andries Richter
   - Anne Maria Eikeset
 date: '2020-01-01T00:00:00Z'

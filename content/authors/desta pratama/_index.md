@@ -64,7 +64,7 @@ bio: Desta's research explores how institutional roles and blue finance structur
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

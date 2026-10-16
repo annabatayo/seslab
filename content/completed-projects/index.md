@@ -7,7 +7,7 @@ sections:
     content:
       title: Completed Projects
       page_type: project
-      count: 0
+      count: 5
       filters:
         tag: Completed
       order: desc
