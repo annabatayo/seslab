@@ -24,11 +24,11 @@ main:
     url: project
     weight: 60
   - name: Ongoing
-    url: project/#ongoing
+    url: ongoing-projects
     parent: projects
     weight: 61
   - name: Completed
-    url: project/#completed
+    url: completed-projects
     parent: projects
     weight: 62
   - name: Publications

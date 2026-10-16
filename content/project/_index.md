@@ -8,6 +8,7 @@ sections:
     content:
       title: Ongoing Projects
       page_type: project
+      count: 0
       filters:
         tag: Ongoing
       order: desc
@@ -19,6 +20,7 @@ sections:
     content:
       title: Completed Projects
       page_type: project
+      count: 0
       filters:
         tag: Completed
       order: desc
