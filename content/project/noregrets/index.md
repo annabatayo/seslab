@@ -7,7 +7,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Photo credit: Anna Lou Abatayo"
+  caption: " "
 
 date: 2024-01-01
 
