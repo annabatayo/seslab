@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research focuses on fisheries dynamics and environmental resource management using data-driven approaches.
 
-#interests:
-#  - Environmental Economics
-#  - Fisheries Economics
+interests:
+  - Environmental Economics
+  - Fisheries Economics
 
 #education:
 #  courses:

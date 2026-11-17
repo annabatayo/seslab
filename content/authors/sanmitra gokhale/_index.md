@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Sanmitra's research focuses on economic risk management in fisheries, including income diversification, fisheries governance, and the impacts of global seafood markets on fishing communities.
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+interests:
+  - Fisheries Economics
+  - Economic Risk Management
+  - Global Seafood Trade
 
 #education:
 #  courses:

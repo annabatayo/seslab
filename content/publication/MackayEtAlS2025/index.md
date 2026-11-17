@@ -7,8 +7,8 @@ authors:
 - Anna Lou Abatayo
 - Swee-Hoon Chuah
 - Dorothy Dankel
-- Amada Schadeberg
-- Hunter Synder
+- Amanda Schadeberg
+- Hunter Snyder
 date: "2026-01-15T00:00:00Z"
 #doi: "10.1086/724286"
 

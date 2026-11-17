@@ -20,8 +20,8 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: Qingyang's research focuses on the economic benefit evaluation of environmental policies and explores how to optimize existing environmental policies from the perspective of individuals.
 
-#interests:
-#  - Environmental Economics
+interests:
+  - Environmental Economics
  # - Behavioral Economics
 
 #education:

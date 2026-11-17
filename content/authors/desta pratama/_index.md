@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Desta's research explores how institutional roles and blue finance structures influence fund allocation, conservation performance, and sustainable financing mechanisms for Marine Protected Areas (MPAs) in Indonesia.
 
-#interests:
-#  - Environmental Economics
-#  - Natural Resource Economics
-#  - Conservation Finance
+interests:
+  - Environmental Economics
+  - Natural Resource Economics
+  - Conservation Finance
 
 #education:
 #  courses:

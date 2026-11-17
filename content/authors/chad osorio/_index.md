@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Chad's research examines the governance of wildlife trade and biodiversity conservation through environmental economics, law, and policy evaluation.
 
-#interests:
-#  - Environmental Economics
-#  - Institutional Economics
-#  - Behavioral Economics
+interests:
+  - Environmental Economics
+  - Institutional Economics
+  - Behavioral Economics
 
 #education:
 #  courses:

@@ -41,7 +41,7 @@ sections:
         protected areas and property regimes, and informal arrangements such as communal social norms.
         Ecological tipping points make these traps hard to escape: once a system has shifted into a
         degraded state, it may stay there. Yet social tipping points can also open windows of
-        opportunity for institutional change, pushing a system towards recovery.
+        opportunity for institutional change, pushing a system toward recovery.
 
         Our research combines economic theory, empirical analysis and interdisciplinary collaboration to
         understand the complex dynamics of social-ecological systems, addressing questions such as:

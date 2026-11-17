@@ -20,10 +20,10 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: Linda's research is on noncompliance and sustainable fisheries management using econometrics and economic experiments.
 
-#interests:
-#  - Environmental Economics
-#  - Natural Resource Economics
-#  - Fisheries 
+interests:
+  - Environmental Economics
+  - Natural Resource Economics
+  - Fisheries
 
 #education:
 #  courses:

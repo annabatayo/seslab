@@ -20,10 +20,10 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: Wenyuan's research lies in empirical microeconomics, combining economic theory with rigorous econometric methods to address policy-relevant questions.
 
-#interests:
-#  - Agricultural Economics
-#  - Environmental Economics
-#  - Development Economics
+interests:
+  - Agricultural Economics
+  - Environmental Economics
+  - Development Economics
 
 #education:
 #  courses:

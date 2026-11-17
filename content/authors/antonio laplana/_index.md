@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Antonio's research focuses on the intersection between Environmental and Development Economics. He has studied topics of climate change, rural sustainability, conflict, migration, religion, and inequality.
 
-#interests:
-#  - Environmental Economics
-#  - Development Economics
-#  - Applied Microeconometrics
+interests:
+  - Environmental Economics
+  - Development Economics
+  - Applied Microeconometrics
 
 #education:
 #  courses:

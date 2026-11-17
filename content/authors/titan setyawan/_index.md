@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Titan's research uses System Dynamics Models to understand how tourism systems within Marine Protected Areas behave and evolve over time.
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+interests:
+  - System Dynamics Modeling
+  - Marine Protected Areas
+  - Marine Tourism
 
 #education:
 #  courses:

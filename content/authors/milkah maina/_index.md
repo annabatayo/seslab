@@ -20,11 +20,11 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Milkah's research focuses on evaluating the impact of the adoption of agroforestry innovations on household welfare.
 
-#interests:
-#   -Impact Evaluation
-#   -Sustainable Land Management
-#   -Environmental Economics
-#   -Rural Livelihoods
+interests:
+  - Impact Evaluation
+  - Sustainable Land Management
+  - Environmental Economics
+  - Rural Livelihoods
 
 
 #education:

@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Intan's research examines the economic and social impacts of marine tourism in Indonesia's Marine Protected Areas to support equitable and sustainable governance.
 
-#interests:
-#  - Natural Resource Economics
-#  - Environmental Economics
-#  - Impact Assessment
+interests:
+  - Natural Resource Economics
+  - Environmental Economics
+  - Impact Assessment
 
 
 #education:

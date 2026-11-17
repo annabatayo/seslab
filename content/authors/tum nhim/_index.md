@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Tum's research focuses on collective action in social-ecological systems, particularly how institutions, cooperation, and resource scarcity shape the governance of common-pool resources.
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+interests:
+  - Collective Action
+  - Water Governance
+  - Agent-Based Modeling
 
 #education:
 #  courses:

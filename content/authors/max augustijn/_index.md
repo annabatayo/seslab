@@ -10,7 +10,7 @@ last_name: Augustijn
 superuser: false
 
 # Role/position
-#role: PhD Canddiate
+#role: PhD Candidate
 
 # Organizations/Affiliations
 #organizations:
@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Max's research examines how economic, legal, and social factors shape nature-based transitions for climate-resilient landscapes, drawing on an interdisciplinary background in psychology, business, design, and spatial planning.
 
-#interests:
-#  - Environmental Economics
-#  - Development Economics
-#  - Applied Microeconometrics
+interests:
+  - Environmental Economics
+  - Development Economics
+  - Applied Microeconometrics
 
 #education:
 #  courses:

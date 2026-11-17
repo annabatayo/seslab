@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Anna's research focuses on how climate change and fishing pressure shape the productivity, collapse and recovery of fish stocks, and on precautionary, science-based fisheries management.
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+interests:
+  - Fisheries Management
+  - Climate Change and Fish Stocks
+  - Science-Policy Interface
 
 #education:
 #  courses:

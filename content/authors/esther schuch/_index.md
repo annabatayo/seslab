@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Esther's research focuses on how uncertainty, information, and human behavior influence cooperation and decision-making in the governance of natural resources and fisheries.
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+interests:
+  - Behavioral Economics
+  - Experimental Economics
+  - Fisheries Governance
 
 #education:
 #  courses:

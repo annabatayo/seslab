@@ -20,11 +20,11 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: Else's PhD research looks at the economic impacts of offshore wind farm development on fisheries in the Netherlands.
 
-#interests:
-#  - Environmental Economics
-#  - Ocean Economics
-#  - Experimental Economics
-#  - Labor Economics
+interests:
+  - Environmental Economics
+  - Ocean Economics
+  - Experimental Economics
+  - Labor Economics
 
 #education:
 #  courses:

@@ -7,7 +7,7 @@ first_name: Federico
 last_name: Fraga
 
 # Is this the primary user of the site?
-#superuser: false
+superuser: false
 
 # Role/position
 #role: PhD Candidate
@@ -20,10 +20,10 @@ last_name: Fraga
 # Short bio (displayed in user profile at end of posts)
 bio: Federico's research focuses on the economics of Marine Protected Areas, combining network analysis, bioeconomic modeling, and stakeholder perspectives to inform effective and equitable management.
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+interests:
+  - Marine Protected Areas
+  - Bioeconomic Modeling
+  - Invasive Species Management
 
 #education:
 #  courses:

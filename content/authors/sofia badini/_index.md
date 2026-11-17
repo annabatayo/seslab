@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Sofia's research focuses on climate adaptation, environmental risk perception, and the role of policy and institutions in shaping human responses to environmental change.
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+interests:
+  - Climate Adaptation
+  - Environmental Risk Perception
+  - Nature-Based Solutions
 
 #education:
 #  courses:

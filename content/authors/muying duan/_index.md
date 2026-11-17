@@ -20,12 +20,12 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Muying's research explores human–environment interactions in groundwater governance, with a focus on policy discourse, smallholder perceptions of groundwater depletion, and water-saving behaviors.
 
-#interests:
-#  - Social-Ecological Systems
-#  - Groundwater Governance
-#  - Sustainable Water Management
-#  - Natural Resource Economics
-#  - Environmental Economics
+interests:
+  - Social-Ecological Systems
+  - Groundwater Governance
+  - Sustainable Water Management
+  - Natural Resource Economics
+  - Environmental Economics
 
 #education:
 #  courses:

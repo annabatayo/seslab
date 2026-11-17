@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Anna's research is on ex-ante and ex-post evaluation of environmental policies through economic experiments and impact evaluation methods.
 
-#interests:
-#  - Environmental Economics
-#  - Natural Resource Economics
-#  - Experimental Economics
-#  - Behavioral Economics
-#  - Impact Evaluation
+interests:
+  - Environmental Economics
+  - Natural Resource Economics
+  - Experimental Economics
+  - Behavioral Economics
+  - Impact Evaluation
 
 #education:
 #  courses:

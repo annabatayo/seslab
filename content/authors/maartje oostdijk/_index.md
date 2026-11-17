@@ -20,10 +20,10 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: Maartje's research is on marine social-ecological systems, and policy evaluation in these systems for both social and ecological outcomes.
 
-#interests:
-#  - Natural Resource Management
-#  - Environmental Science
-#  - Seafood Trade
+interests:
+  - Natural Resource Management
+  - Environmental Science
+  - Seafood Trade
 
 #education:
 #  courses:

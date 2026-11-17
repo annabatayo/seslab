@@ -20,11 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Andries's research focuses on the economics of social–ecological systems, using theoretical models, causal empirical methods, and economic experiments to understand how institutions and human behavior affect the sustainable management of natural resources.
 
-#interests:
-#  - Environmental Economics
-#  - Natural Resource Economics
-#  - Fisheries Economics
-#  - Behavioral Economics
+interests:
+  - Environmental Economics
+  - Natural Resource Economics
+  - Fisheries Economics
+  - Behavioral Economics
 
 #education:
 #  courses:
