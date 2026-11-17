@@ -16,7 +16,7 @@ image:
 
 Marine protected areas (MPAs) have become one of the world’s most important tools for conserving marine biodiversity. Yet despite their rapid expansion, surprisingly little is known about why protected areas are established in some locations but not in others. Most research asks what MPAs achieve once they are in place. This project addresses an earlier and often overlooked question: how conservation policies are selected in the first place.
 
-{{< pullquote author="Dr. Anna Lou Abatayo" >}}We know quite a lot about the ecological effects of marine protected areas, much less about their socio-economic effects, and even less about why they end up where they do. If protection follows politics and economics as much as ecology, that matters for how we design conservation policy.{{< /pullquote >}}
+{{< pullquote author="Anna Abatayo" >}}We know quite a lot about the ecological effects of marine protected areas, much less about their socio-economic effects, and even less about why they end up where they do. If protection follows politics and economics as much as ecology, that matters for how we design conservation policy.{{< /pullquote >}}
 
 The project focuses on the Coral Triangle, the world’s most biodiverse marine region. By combining harmonized spatial datasets, economic indicators and surveys of conservation practitioners, it will examine whether MPAs are systematically established where ecological value is highest, or whether political and economic considerations also shape where protection ends up. The findings will provide new evidence on how conservation priorities translate into spatial protection, and can help policymakers design more effective and equitable marine conservation strategies.
 
