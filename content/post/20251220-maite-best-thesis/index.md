@@ -10,7 +10,7 @@ tags:
   - Indonesia
 date: '2025-12-20T00:00:00Z'
 image:
-  caption: 'Maite den Butter (center) with her thesis supervisors, Dr. Andries Richter (left) and Dr. Anna Lou Abatayo (right).'
+  caption: 'Maite den Butter (center) with her thesis supervisors, Andries Richter (left) and Anna Lou Abatayo (right).'
   focal_point: 'Center'
 ---
 
@@ -20,6 +20,6 @@ Marine protected areas (MPAs) are among the most widely used tools for conservin
 
 Using household survey data, Maite examined how communities living near long-established MPAs in Papua and West Papua fared after conservation interventions were introduced. Her analysis looked at livelihoods, local economic opportunities and overall community welfare, contributing to a growing body of work on the human dimensions of marine conservation.
 
-The thesis was supervised by Dr. Anna Lou Abatayo and Dr. Andries Richter. It connects directly to EconSES research on marine systems, conservation policy and the social-ecological dynamics of resource management, where bringing together environmental and social outcomes, and economic and behavioral perspectives, is central to understanding how conservation works in practice.
+The thesis was supervised by [Dr. Anna Lou Abatayo](/author/anna-lou-abatayo/) and [Dr. Andries Richter](/author/andries-richter). It connects directly to EconSES research on marine systems, conservation policy and the social-ecological dynamics of resource management, where bringing together environmental and social outcomes, and economic and behavioral perspectives, is central to understanding how conservation works in practice.
 
 EconSES congratulates Maite on this recognition of her work. We look forward to seeing how she continues to contribute to research on sustainable ocean governance and marine conservation. More information about the award is available on the [REMagine Award website](https://www.remagine-award.nl/).

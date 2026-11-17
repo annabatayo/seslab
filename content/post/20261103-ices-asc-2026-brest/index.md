@@ -1,9 +1,10 @@
 ---
 title: 'Impressions from the ICES Annual Science Conference 2026 in Brest'
 subtitle: ''
-summary: 'EconSES postdoctoral researcher Dr. Maartje Oostdijk shares her impressions from the ICES Annual Science Conference in Brest: climate-ready harvest strategies, bycatch, and a call for more social and economic research.'
-authors:
-  - Maartje Oostdijk
+summary: 'Dr. Maartje Oostdijk shares her impressions from the ICES Annual Science Conference in Brest: climate-ready harvest strategies, bycatch, and a call for more social and economic research.'
+profile: maartje-oostdijk
+#authors:
+#  - Maartje Oostdijk
 tags:
   - Marine Systems
   - Fisheries
@@ -19,7 +20,7 @@ image:
   preview_only: false
 ---
 
-From 15 to 18 September 2026, marine researchers from across the North Atlantic gathered in Brest, France, for the Annual Science Conference (ASC) of the International Council for the Exploration of the Sea (ICES). EconSES postdoctoral researcher [Dr. Maartje Oostdijk](/author/maartje-oostdijk/) attended on behalf of the lab, presenting work on climate-ready fisheries harvest strategies and on how trade agreements affect seafood trade and production.
+The Annual Science Conference (ASC) of the International Council for the Exploration of the Sea (ICES) took place on 15–18 September in Brest, France. EconSES postdoctoral researcher [Dr. Maartje Oostdijk](/author/maartje-oostdijk/) attended on behalf of the lab, presenting work on climate-ready fisheries harvest strategies and on how trade agreements affect seafood trade and production.
 
 ICES is an intergovernmental marine science organization that provides scientific evidence and advice to support the sustainable management of marine ecosystems and fisheries in the North Atlantic and adjacent seas. Stock assessment is a central part of its work, and the conference follows an often intense week of meetings for scientists working on stock assessments. The ASC, however, reaches beyond stock assessment and is an important gathering for researchers studying marine social-ecological systems.
 
