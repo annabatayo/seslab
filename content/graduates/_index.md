@@ -15,7 +15,7 @@ sections:
       sort_by: graduation
       sort_ascending: false
     design:
-      show_interests: true
+      show_interests: false
       show_role: true
       show_social: true
       show_dissertation: true
