@@ -1,6 +1,6 @@
 ---
 title: 'Navigating offshore energy, nature, and fisheries: trade-offs and transition scenarios'
-summary: 'At the North Sea Days, a session convened by Andries Richter, Else Weerman, and partners set out to make the trade-offs between offshore wind, nature, and fisheries explicit.'
+summary: 'At the North Sea Days, a session convened by Dr. Andries Richter, Else Weerman, and partners set out to make the trade-offs between offshore wind, nature, and fisheries explicit.'
 profile: 
   - andries-richter
   - else-weerman
@@ -15,7 +15,7 @@ image:
   focal_point: 'Center'
 ---
 
-As the North Sea gets more crowded, decisions about offshore wind, nature restoration, and fisheries are becoming more contested, often under deep uncertainty about climate change and a shifting geopolitical landscape. Too often the trade-offs stay implicit, which makes it hard to see who benefits, who bears the costs, and where thresholds may be crossed. At the North Sea Days, we convened a session to make these trade-offs explicit, together with partners from Wageningen Social and Economic Research, DMEC, Central Bureau of Statistics, Stichting De Noordzee, NIOZ, and Breda University of Applied Sciences, and drawing on the NO-REGRETS and DISPLACE projects.
+As the North Sea gets more crowded, decisions about offshore wind, nature restoration, and fisheries are becoming more contested, often under deep uncertainty about climate change and a shifting geopolitical landscape. Too often the trade-offs stay implicit, which makes it hard to see who benefits, who bears the costs, and where thresholds may be crossed. At the North Sea Days, EconSES convened a session to make these trade-offs explicit, together with partners from Wageningen Social and Economic Research, DMEC, Central Bureau of Statistics, Stichting De Noordzee, NIOZ, and Breda University of Applied Sciences, and drawing on the NO-REGRETS and DISPLACE projects.
 
 ![Wind turbines at Neeltje Jans against a cloudy sky.](turbines.jpg "Neeltje Jans was a perfect venue to host a session on offshore wind.")
 

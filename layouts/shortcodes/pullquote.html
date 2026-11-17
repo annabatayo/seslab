@@ -1,0 +1,8 @@
+{{/* Pull quote for news posts.
+     Usage: {{< pullquote author="Maartje Oostdijk" >}}Quote text{{< /pullquote >}} */}}
+<figure class="econses-pullquote" style="margin: 2.5rem 0; padding: 0.4rem 0 0.4rem 1.6rem; border-left: 5px solid #2E8B7F;">
+  <blockquote style="margin: 0; border: 0; padding: 0; font-size: 1.45rem; line-height: 1.45; font-weight: 600; color: #1D6E78;">
+    “{{ .Inner | markdownify }}”
+  </blockquote>
+  {{ with .Get "author" }}<figcaption style="margin-top: 0.6rem; font-size: 0.95rem; letter-spacing: 0.08em; text-transform: uppercase; color: #5a6b6a;">— {{ . }}</figcaption>{{ end }}
+</figure>
