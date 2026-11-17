@@ -32,8 +32,13 @@ sections:
     content:
       title: Related Projects
       page_type: project
+      count: 3
       filters:
         tag: Behavior in the Commons
+      archive:
+        enable: true
+        text: See all projects →
+        link: research/behavior-in-the-commons/projects/
     design:
       view: compact
 
@@ -41,10 +46,14 @@ sections:
     content:
       title: Related publications
       page_type: publication
-      count: 0
+      count: 3
       order: desc
       filters:
         tag: Behavior in the Commons
+      archive:
+        enable: true
+        text: See all publications →
+        link: research/behavior-in-the-commons/publications/
     design:
       view: citation
 ---

@@ -28,18 +28,28 @@ sections:
     content:
       title: Related Projects
       page_type: project
+      count: 3
       filters:
         tag: Ecosystem Restoration
+      archive:
+        enable: true
+        text: See all projects →
+        link: research/ecosystem-restoration/projects/
     design:
       view: compact
+
   - block: collection
     content:
       title: Related publications
       page_type: publication
-      count: 0
+      count: 3
       order: desc
       filters:
         tag: Ecosystem Restoration
+      archive:
+        enable: true
+        text: See all publications →
+        link: research/ecosystem-restoration/publications/
     design:
       view: citation
 ---

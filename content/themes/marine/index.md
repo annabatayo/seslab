@@ -29,18 +29,28 @@ sections:
     content:
       title: Related Projects
       page_type: project
+      count: 3
       filters:
         tag: Marine Systems
+      archive:
+        enable: true
+        text: See all projects →
+        link: research/marine-systems/projects/
     design:
       view: compact
+
   - block: collection
     content:
       title: Related publications
       page_type: publication
-      count: 0
+      count: 3
       order: desc
       filters:
         tag: Marine Systems
+      archive:
+        enable: true
+        text: See all publications →
+        link: research/marine-systems/publications/
     design:
-      view: citation   
+      view: citation
 ---
